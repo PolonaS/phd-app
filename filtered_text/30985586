@@ -1,0 +1,15 @@
+Musculoskeletal injury rates in military personnel remain unacceptably high.
+Application of machine learning algorithms could be useful in multivariate models to predict injury in this population.
+The purpose of this study was to investigate if interaction between individual predictors, using a decision tree model, could be used to develop a population-specific algorithm of lower-extremity injury  risk.
+One hundred forty Air Force Special Forces Operators (27.4 ± 5.0 yr, 177.6 ± 5.8 cm, 83.8 ± 8.4 kg) volunteered for this prospective cohort study.
+Baseline testing included body composition, isokinetic strength, flexibility, aerobic/anaerobic capacity, anaerobic power, and landing biomechanics.
+To evaluate unilateral landing patterns, subjects jumped off two-feet from a distance (40% of their height) over a hurdle and landing single-legged on a force plate.
+Medical chart reviews were conducted 365 d postbaseline.
+χ automatic interaction detection (CHAID) was used, which compares predictor variables to LEI and assigns a population-specific "cut-point" for the most relevant predictors.
+Twenty-seven percent of operators (n = 38) suffered LEI.
+A maximum knee flexion angle difference of 25.1% had the highest association with injury in this population (P = 0.006).
+Operators with >25.1% differences in max knee flexion angle (n = 13) suffered LEI at a 69.2% rate.
+Seven of the 13 Operators with >25.1% difference in max knee flexion angle weighed >81.8 kg, and 100% of those operators suffered LEI (P = 0.047; n = 7).
+Only 33% of operators with >25.1% difference in max knee flexion angle that weighed <81.8 kg suffered LEI.
+This study demonstrated increased risk of LEI over a 365-d period in Operators with greater differences in single-leg landing strategies and higher body mass.
+The CHAID approach can be a powerful tool to analyze population-specific risk factors for injury, along with how those factors may interact to enhance risk.

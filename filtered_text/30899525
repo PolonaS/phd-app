@@ -1,0 +1,12 @@
+Diagnosis codes might be used for diabetes surveillance if they accurately distinguish diabetes type.
+We assessed the validity of
+Diabetes case identification and abstraction of diabetes type was done as part of the SEARCH for Diabetes in Youth Study.
+The gold standard for diabetes type is the physician-assigned diabetes type documented in patients' medical records.
+Using all healthcare encounters with ICD-10-CM codes for diabetes, we summarized codes within each encounter and determined diabetes type using percent of encounters classified as T2DM.
+We chose 50% as the threshold from a receiver operating characteristic curve because this threshold yielded the largest Youden's index.
+Persons with ≥50% T2DM-coded encounters were classified as having T2DM.
+Otherwise, persons were classified as having T1DM.
+We calculated sensitivity, specificity, positive and negative predictive values, and accuracy overall and by demographic characteristics.
+According to the gold standard, 1911 persons had T1DM and 652 persons had T2DM (mean age (SD): 19.1 (6.5) years).
+We obtained 90.6% (95% CI 88.4% to 92.9%) sensitivity, 96.3% (95% CI 95.4% to 97.1%) specificity, 89.3% (95% CI 86.9% to 91.6%) positive predictive value, 96.8% (95% CI 96.0% to 97.6%) negative predictive value, and 94.8% (95% CI 94.0% to 95.7%) accuracy for discriminating T2DM from T1DM.
+ICD-10-CM codes can accurately classify diabetes type for persons with youth-onset diabetes, showing promise for rapid, cost-efficient diabetes surveillance.

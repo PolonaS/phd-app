@@ -1,0 +1,23 @@
+Chronic disease is associated with increased health care resource utilization and costs.
+Effective development and implementation of health care management and clinical intervention programs require an understanding of health plan member enrollment and disenrollment behavior.
+To examine the health plan enrollment and disenrollment behavior of commercially insured and Medicare Advantage members with established chronic disease compared with matched members without the disease of interest, using data from a large national health insurer in the United States.
+This retrospective matched cohort study used administrative claims data from the HealthCore Integrated Research Database from January 1, 2006, to November 30, 2015, to identify adults with chronic disease (type 2 diabetes mellitus [T2DM], cardiovascular disease [CVD], chronic obstructive pulmonary disease [COPD], rheumatoid arthritis [RA], and breast cancer [BC]).
+Members with no established chronic disease (controls) were directly matched to members with established chronic disease (cases) on demographic characteristics.
+The earliest date on which members met the criteria for a given disease was defined as the index date.
+Controls had the same index date as the matched cases.
+All members had ≥ 12 months of continuous health plan enrollment before the index date.
+Outcomes included health plan member disenrollment and enrollment duration.
+Incidence rates per 1,000 member-years for member disenrollment were evaluated along with incidence rate ratios (relative risk) using a Poisson model.
+Time to disenrollment was analyzed by Cox proportional hazard models and Kaplan-Meier survival curves.
+Sensitivity analyses were conducted where death was included as a disenrollment event.
+70,907 health plan members with BC (99.7% female, mean age 60.5 years); 28,883 members with COPD (52.3% female, mean age 66.7); 835,358 members with CVD (50.5% female, mean age 62.7 years); 210,936 members with T2DM (45.2% female, mean age 53.6 years); and 31,954 members with RA (72.0% female, mean age 55.5 years) were matched to controls and met the study criteria.
+The incidence rates of health plan disenrollment ranged from 155 to 192 members per 1,000 members per year.
+Compared with controls, members with chronic disease were 30%-40% less likely to disenroll from a health plan (
+This real-world study demonstrated that members with chronic disease had a significantly lower rate of disenrollment and a longer duration of enrollment compared with matched controls and were continuously enrolled for almost a year longer than members without a diagnosed chronic disease.
+Understanding health plan enrollment and disenrollment behavior may provide a valuable context for determining the time frame for the effect of health care programs and initiatives.
+Funding for this study was provided by HealthCore, a wholly owned subsidiary of Anthem.
+Chung, Deshpande, Zolotarjova, Quimbo, and Willey are employees of HealthCore.
+Kern and Cochetti are former employees of HealthCore.
+Quimbo, Cochetti, and Willey are shareholders of Anthem.
+HealthCore receives funding from multiple pharmaceutical companies to perform various research studies outside of the submitted work.
+The preliminary results of this study were presented at AMCP Nexus 2015; March 26-29, 2015; Orlando, FL, and the International Society for Pharmacoeconomics and Outcomes Research  2017 Conference; May 20-24, 2017; Boston, MA.

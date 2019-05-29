@@ -1,0 +1,8 @@
+Posterolateral corner  structures of the knee joint comprise complex anatomical soft tissues that support static and dynamic functional movements of the knee.
+Most previous studies analyzed posterolateral stability in vitro under static loading conditions.
+This study aimed to evaluate the contributions of the lateral (fibular) collateral ligament ,  (PFL), and  (PT) to cruciate ligament forces under simulated dynamic loading conditions by using selective individual resection.
+We combined medical imaging and motion capture of healthy subjects (four males and one female) to develop subject-specific knee models that simulated the 12 degrees of freedom of tibiofemoral and patellofemoral joint behaviors.
+These computational models were validated by comparing  (EMG) data with muscle activation data and were based on previous experimental studies.
+A rigid multi-body dynamics simulation using a lower extremity musculoskeletal model was performed to incorporate intact and selective resection of ligaments, based on a novel force-dependent kinematics method, during gait (walking) and squatting.
+Deficiency of the PLC structures resulted in increased loading on the posterior cruciate ligament and anterior cruciate ligament.
+Among PLC structures, the PT is the most influential on cruciate ligament forces under dynamic loading conditions.

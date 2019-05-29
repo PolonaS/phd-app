@@ -1,0 +1,10 @@
+In some settings, it may be difficult to differentiate between a confounder and a mediator.
+For instance, the observed association of self-reported  (CPA) with onset of  (COPD) and migraine may be confounded by current mood/psychological state (e.g., the subjective evaluation of one's own affective state), as well as mediated by an individual's psychopathological symptoms.
+In this study, we propose the "independence hypothesis," which could prove meaningful to explore in data that lack prospective or objective indices of CPA.
+We used cross-sectional data from wave VI (2007-2008) of the Tromsø Study, Norway ( N = 12,981).
+The associations between CPA and COPD and migraine were assessed with Poisson regression models.
+CPA was associated with a 46% increased risk of COPD (relative risk [RR] = 1.46, 95% confidence interval [CI]: [1.02, 1.90]) and a 28% increased risk of migraine in adulthood (RR = 1.28, 95% CI: [1.04, 1.53]), independent of age, sex, parental history of psychiatric problems/asthma/dementia, smoking, respondent's mood/psychological state, and mental health.
+These findings suggest that the association between retrospectively reported CPA and COPD and migraine is not driven entirely by respondent's mood/psychological state and mental health.
+Assessing the independent effect of self-reported CPA on COPD and migraine in retrospective studies may prove more meaningful than exploring the mediating role of mental health.
+Here, we provide the analytical rationale for assessing the independent effect in settings where it is difficult to differentiate between a confounder and a mediator.
+Moreover, we provide a theoretical rationale for assessing the independent effect of retrospectively reported childhood adversity on health and well-being.

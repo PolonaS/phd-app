@@ -1,0 +1,13 @@
+To develop and validate a CT harmonization technique by combining noise-stabilization and autocalibration methodologies to provide reliable densitometry measurements in heterogeneous acquisition protocols.
+We propose to reduce the effects of spatially-variant noise such as non-uniform patterns of noise and biases.
+The method combines the statistical characterization of the signal-to-noise relationship in the CT image intensities, which allows us to estimate both the signal and spatially-variant variance of noise, with an autocalibration technique that reduces the non-uniform biases caused by noise and reconstruction techniques.
+The method is firstly validated with anthropomorphic synthetic images that simulate CT acquisitions with variable scanning parameters: different dosage, non-homogeneous variance of noise, and various reconstruction methods.
+We finally evaluate these effects and the ability of our method to provide consistent densitometric measurements in a cohort of clinical chest CT scans from two vendors (Siemens, n=54 subjects; and GE, n=50 subjects) acquired with several reconstruction algorithms (filtered back-projection and iterative reconstructions) with high-dose and low-dose protocols.
+The harmonization reduces the effect of non-homogeneous noise without compromising the resolution of the images (25% RMSE reduction in both clinical datasets).
+An analysis through hierarchical linear models showed that the average biases induced by differences in dosage and reconstruction methods are also reduced up to 74:20%, enabling comparable results between highdose and low-dose reconstructions.
+We also assessed the statistical similarity between acquisitions obtaining increases of up to 30 percentage points and showing that the low-dose vs. high-dose comparisons of harmonized data obtain similar and even higher similarity than the observed for high-dose vs. high-dose comparisons of non-harmonized data.
+The proposed harmonization technique allows to compare measures of low-dose with high-dose acquisitions without using a specific reconstruction as a reference.
+Since the harmonization does not require a precalibration with a phantom, it can be applied to retrospective studies.
+This approach might be suitable for multicenter trials for which a reference reconstruction is not feasible or hard to define due to differences in vendors, models and reconstruction techniques.
+This article is protected by copyright.
+All rights reserved.

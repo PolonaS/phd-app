@@ -1,0 +1,10 @@
+Various genetic and environmental factors are known to be associated with  (COPD).
+We identified COPD-related differentially expressed genes  using 189 samples accompanying either  (AC) or  (SC), comprising 91 normal and 98 COPD samples.
+DEGs were obtained from the intersection of two DEG sets separately identified for AC and SC to exclude the influence of different cancer backgrounds co-occurring with COPD.
+We also measured patient samples named group 'I', which were unable to be determined as normal or COPD based on alterations in gene expression.
+The  (GO) analysis revealed significant alterations in the expression of genes categorized with the 'cell adhesion', 'inflammatory response', and 'mitochondrial functions', i.e., well-known functions related to COPD, in samples from patients with COPD.
+Multi-omics data were subsequently integrated to decipher the upstream regulatory changes linked to the gene expression alterations in COPD.
+COPD-associated expression quantitative trait loci (eQTLs) were located at the upstream regulatory regions of 96 DEGs.
+Additionally, 45 previously identified COPD-related miRNAs were predicted to target 66 of the DEGs.
+The eQTLs and miRNAs might affect the expression of 'respiratory electron transport chain' genes and 'cell proliferation' genes, respectively, while both eQTLs and miRNAs might affect the expression of 'apoptosis' genes.
+We think that our present study will contribute to our understanding of the molecular etiology of COPD accompanying lung cancer.

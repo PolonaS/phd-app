@@ -1,0 +1,12 @@
+ (UGC) in online environments provides opportunities to learn an individual's health status outside of clinical settings.
+However, the nature of UGC brings challenges in both data collecting and processing.
+The purpose of this study is to systematically review the effectiveness of applying machine learning  methodologies to UGC for personal health investigations.
+We searched PubMed, Web of Science, IEEE Library, ACM library, AAAI library, and the ACL anthology.
+We focused on research articles that were published in English and in peer-reviewed journals or conference proceedings between 2010 and 2018.
+Publications that applied ML to UGC with a focus on personal health were identified for further systematic review.
+We identified 103 eligible studies which we summarized with respect to 5 research categories, 3 data collection strategies, 3 gold standard dataset creation methods, and 4 types of features applied in ML models.
+Popular off-the-shelf ML models were logistic regression (n = 22), support vector machines (n = 18), naive Bayes (n = 17), ensemble learning (n = 12), and deep learning (n = 11).
+The most investigated problems were mental health (n = 39) and cancer (n = 15).
+Common health-related aspects extracted from UGC were treatment experience, sentiments and emotions, coping strategies, and social support.
+The systematic review indicated that ML can be effectively applied to UGC in facilitating the description and inference of personal health.
+Future research needs to focus on mitigating bias introduced when building study cohorts, creating features from free text, improving clinical creditability of UGC, and model interpretability.

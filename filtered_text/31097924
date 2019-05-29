@@ -1,0 +1,13 @@
+In this paper, we present a pilot study evaluating novel methods for assessing joint health in patients with  (JIA) using wearable acoustical emission measurements from the knees.
+Measurements were taken from four control subjects with no known knee injuries, and from four subjects with JIA, before and after treatment.
+Time and frequency domain features were extracted from the acoustical emission signals and used to compute a knee audio score.
+The score was used to separate out the two groups of subjects based solely on the sounds their joints produce.
+It was created using a soft classifier based on gradient boosting trees.
+The knee audio scores ranged from 0-1 with 0 being a healthy knee and 1 being an involved joint with arthritis.
+ (LOSO-CV) was used to validate the algorithm.
+The average of the right and left knee audio scores was 0.085±0.099 and 0.89±0.012 for the control group and group with JIA, respectively (p<0.05).
+The average knee audio score for the subjects with JIA decreased from 0.89±0.012 to 0.25±0.20 following successful treatment (p<0.05).
+The knee audio score metric successfully distinguished between the control subjects and subjects with JIA.
+The scores calculated before and after treatment accurately reflected the observed clinical course of the subjects with JIA.
+After successful treatment, the subjects with JIA were classified as healthy by the algorithm.
+Knee acoustical emissions provide a novel and cost-effective method for monitoring JIA, and can be used as an objective guide for assessing treatment efficacy.

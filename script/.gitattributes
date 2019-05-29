@@ -1,0 +1,6 @@
+*.xml filter=lfs diff=lfs merge=lfs -text
+xml-files/*.xml filter=lfs diff=lfs merge=lfs -text
+xml-files/ filter=lfs diff=lfs merge=lfs -text
+xml-files/pubmed_acl.xml filter=lfs diff=lfs merge=lfs -text
+xml-files/pubmed_copd.xml filter=lfs diff=lfs merge=lfs -text
+xml-files/pubmed_knee_injury.xml filter=lfs diff=lfs merge=lfs -text
