@@ -3,3 +3,7 @@ venv
 **__pycache__**
 out/log.txt
 phd-app.sqlite
+script/flexiterm.sqlite
+acronyms
+filtered_text
+text
