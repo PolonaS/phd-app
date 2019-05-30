@@ -1,0 +1,2845 @@
+Rank,Term representative,Score,Frequency
+1,"COPD",1745,0909,1261
+2,"chronic obstructive disease",1413,9478,1291
+3,"obstructive pulmonary diseases",1388,5790,1268
+4,"ACL",1245,6673,1136
+5,"chronic diseases",973,4383,1408
+6,"pulmonary disease",882,3850,1277
+7,"pulmonary obstruction",879,5950,1273
+8,"CL",839,4300,1214
+9,"ACLR",531,6925,385
+10,"copd patients",379,2985,237
+11,"patients with chronic pulmonary diseases",328,1089,240
+12,"patients with chronic obstructive pulmonary patients",325,3106,238
+13,"ligament reconstruction",304,9457,443
+14,"CI",230,8180,334
+15,"IKDC",227,7088,167
+16,"MRI",198,4712,182
+17,"copd exacerbation",153,1507,99
+18,"acl injury",131,3019,96
+19,"MR",130,5053,191
+20,"cruciate ligament injuries",120,6231,112
+21,"TKA",106,4221,99
+22,"ligament injuries",94,8829,139
+23,"knee arthroplasties",90,3402,134
+24,"OR",86,1235,126
+25,"AECOPD",84,2127,51
+26,"knee injury",76,7752,112
+27,"risk factors",67,8046,99
+28,"subjective international knee documentation committee",66,7917,46
+29,"disease exacerbation",66,7072,101
+30,"PCL",65,3674,61
+31,"quality of life",64,9112,96
+32,"MCL",62,2024,58
+33,"knee joint",59,3586,87
+34,"acute exacerbation",53,8014,81
+35,"chronic obstructive lung disease",53,1990,40
+36,"control group",52,5406,77
+37,"collateral ligaments",52,2729,78
+38,"chronic lung disease",52,1841,49
+39,"BMI",51,9860,76
+40,"stable copd",51,7319,34
+41,"knee scores",51,5157,77
+42,"controlled trial",51,4777,78
+43,"MPFL",50,1928,48
+44,"CT",49,7843,73
+45,"IKDC-SKF",49,2734,30
+46,"clinical outcomes",49,1701,72
+47,"PR",48,9724,72
+48,"lung function",48,4314,71
+49,"GOLD",48,1535,28
+50,"systematic review",47,4806,70
+51,"lung disease",47,4113,70
+52,"RCTs",47,0834,44
+53,"ikdc score",46,6737,31
+54,"knee flexion",45,9695,68
+55,"physical activity",44,0148,65
+56,"obstructive lung diseases",43,2853,41
+57,"osteoarthritis outcome score",42,8459,40
+58,"knee osteoarthritis",42,0971,62
+59,"acl revision",41,9966,32
+60,"mpfl reconstruction",41,8409,32
+61,"ALL",40,8957,60
+62,"patient-reported outcomes",40,6976,60
+63,"medial collateral",39,7614,60
+64,"CAT",39,4187,23
+65,"NIV",37,9383,56
+66,"PT",36,4702,54
+67,"ICC",36,2542,34
+68,"CS",36,0970,54
+69,"adverse events",35,9397,53
+70,"ACLT",35,8896,27
+71,"primary anterior cruciate ligament",35,4135,28
+72,"BPTB",34,9544,52
+73,"ACO",34,6959,52
+74,"IPF",34,4232,33
+75,"outcome scores",33,7122,53
+76,"femoral tunnel",33,5888,50
+77,"RR",33,2711,49
+78,"acl graft",33,1940,25
+79,"FEV",32,8291,31
+80,"UKA",32,7142,31
+81,"primary acl reconstruction",31,7864,21
+82,"acl repair",31,4516,24
+83,"subjective knee form",31,2320,33
+84,"ROM",31,1383,47
+85,"lung cancer",30,7757,46
+86,"LSI",30,6965,29
+87,"injury risk",30,2852,45
+88,"expiratory volume",29,9979,45
+89,"knee extension",29,7620,44
+90,"OSA",29,3629,28
+91,"respiratory failure",29,2629,44
+92,"lysholm score",29,0352,44
+93,"stable copd patients",28,6682,17
+94,"health-related quality of life",28,5639,27
+95,"randomised trials",28,4190,46
+96,"patient outcomes",28,0875,42
+97,"heart failure",27,5999,42
+98,"acl patients",27,2308,21
+99,"copd diagnosis",27,0386,18
+100,"HR",27,0327,40
+101,"HS",26,4386,40
+102,"p-ACL",25,8064,20
+103,"revision acl reconstruction",25,7510,17
+103,"Pedi-IKDC",25,7510,17
+104,"respiratory diseases",25,4385,38
+105,"IR",25,4018,38
+106,"osteoarthritis score",25,2306,45
+107,"ikdc subjective score",25,0846,15
+108,"NSCLC",24,8273,19
+109,"acl rupture",24,6760,19
+110,"limb asymmetry",24,5902,37
+111,"knee oa",23,9569,36
+112,"copd severity",23,4978,16
+113,"acl surgery",22,9369,18
+114,"patient group",22,8739,34
+114,"flexion angles",22,8739,35
+115,"hypercapnic respiratory failure",22,8267,23
+115,"acute respiratory failure",22,8267,23
+116,"cardiovascular disease",22,8045,34
+117,"knee angle",22,3631,34
+118,"PROMIS",22,2639,15
+119,"soft tissue",22,0144,33
+120,"6MWD",21,9722,21
+121,"air pollution",21,8572,33
+122,"reconstruction techniques",21,6724,33
+123,"PASS",21,6060,22
+124,"CAD",21,5328,21
+124,"SLE",21,5328,21
+125,"AHRF",21,3489,17
+126,"PLC",21,3027,32
+127,"tibial tunnels",21,2710,32
+128,"risk of chronic obstructive pulmonary disease",20,9227,14
+129,"RTD",20,8736,20
+129,"ELISA",20,8736,20
+129,"TNF",20,8736,20
+130,"ground reaction forces",20,7821,20
+131,"clinical practice",20,7174,31
+132,"muscle strength",20,7129,31
+133,"tibial plateau",20,3179,31
+134,"pulmonary fibrosis",20,2993,34
+135,"knee function",19,9280,30
+136,"primary reconstruction",19,8702,32
+137,"failure rate",19,7547,30
+138,"femoral condyle",19,5071,30
+139,"igg acl",19,4081,15
+140,"clinical trial",19,2987,29
+141,"national collegiate athletic association",19,2348,15
+142,"knee flexion angle",19,1472,19
+143,"knee stability",19,1193,29
+144,"functional outcomes",19,0615,29
+145,"treatment of copd",18,9914,13
+145,"RDW",18,9914,13
+146,"medical research council",18,9903,19
+147,"outcome measures",18,9460,29
+148,"intraclass correlation",18,8883,36
+149,"activities of daily living",18,6764,19
+150,"knee in patients",18,5499,28
+151,"knee pain",18,5169,28
+152,"sleep apnea",18,4839,29
+153,"ligament repair",18,4724,28
+154,"mean age",18,1605,28
+155,"mcl injuries",18,0218,14
+155,"PTKA",18,0218,13
+156,"primary outcome",17,8678,27
+157,"knee strength",17,8485,27
+158,"logistic regression",17,7908,27
+158,"PFP",17,7908,28
+159,"arthroscopic anterior cruciate ligament",17,7446,14
+160,"BEAR",17,7038,12
+161,"medial meniscus",17,6753,27
+162,"ligament transection",17,5366,28
+163,"contralateral acl",17,4673,14
+164,"disease severity",17,4442,27
+165,"outcome after anterior cruciate ligament",17,4057,14
+166,"TT-TG",17,3947,18
+167,"HIV",17,3581,17
+168,"revision reconstruction",17,3287,27
+169,"articular cartilage",17,2940,26
+170,"ITB",17,2594,26
+171,"mechanism of injury",17,2517,26
+172,"CRP",17,2297,26
+173,"ligament in patients",17,1098,26
+174,"rehabilitation programs",16,9821,26
+175,"NCFB",16,7931,17
+176,"vitamin d",16,7896,26
+177,"AP",16,6355,25
+178,"external rotation",16,5095,25
+179,"PF",16,4622,26
+180,"meniscal repair",16,4465,25
+181,"chronic respiratory diseases",16,3693,16
+182,"anatomical anterior cruciate ligament",16,3583,13
+183,"myocardial infarction",16,0810,25
+184,"RF",16,0290,25
+185,"graft failure",16,0194,25
+185,"hop testing",16,0194,25
+186,"pulmonary function",15,6948,24
+187,"SB",15,5092,24
+188,"tibial slope",15,3879,24
+189,"visual analog scale",15,3806,15
+190,"copd lungs",15,2897,11
+191,"DISH",15,2492,12
+191,"ICS",15,2492,23
+192,"hospital admission",15,1862,23
+193,"chronic bronchitis",14,9720,24
+194,"lateral meniscus",14,9522,23
+195,"inclusion criteria",14,5561,22
+195,"final follow-up",14,5561,22
+195,"palliative care",14,5561,23
+196,"gene expression",14,5099,22
+197,"meniscal injuries",14,4931,22
+198,"preferred reporting items for systematic reviews",14,4849,9
+198,"prevalence of copd",14,4849,10
+199,"WHP",14,2820,14
+199,"6MWT",14,2820,14
+200,"multivariate regression",14,2095,22
+200,"reaction forces",14,2095,22
+200,"PACAP",14,2095,12
+201,"outcome after acl reconstruction",14,1631,10
+202,"tendon autografts",14,1518,22
+203,"household air pollution",14,1250,14
+204,"regression analysis",14,1150,22
+205,"multivariate analysis",13,9785,22
+206,"bone tunnel",13,9620,22
+207,"posterior tibial slope",13,9158,15
+208,"LARS",13,8629,10
+208,"healthy controls",13,8629,21
+208,"TAVI",13,8629,11
+209,"ICU",13,7327,14
+210,"anterior translation",13,6739,21
+211,"knee kinematics",13,6319,21
+212,"LCL",13,6228,14
+213,"gold standard",13,6214,8
+214,"functional tests",13,4471,21
+215,"acute injury",13,4218,21
+216,"ROC",13,1833,14
+216,"BMD",13,1833,13
+217,"surgical technique",13,1698,20
+217,"case series",13,1698,20
+217,"age group",13,1698,20
+217,"health status",13,1698,20
+218,"health care",13,1265,20
+219,"total hip",13,0158,21
+220,"MSCs",12,9087,13
+221,"IFP",12,8755,8
+221,"aclr patients",12,8755,9
+221,"qRT-PCR",12,8755,8
+221,"management of chronic obstructive pulmonary disease",12,8755,9
+221,"clinical use in copd",12,8755,9
+222,"pulmonary density",12,8232,21
+223,"posterior slope",12,6153,20
+224,"ST",12,4766,19
+224,"general population",12,4766,19
+224,"injuries rate",12,4766,19
+224,"pcl injuries",12,4766,10
+224,"rate of anterior cruciate ligament",12,4766,10
+224,"CV",12,4766,19
+225,"public health",12,3900,19
+226,"multivariable models",12,3611,19
+227,"PAD",12,3594,14
+228,"OCA",12,2456,19
+228,"osa patients",12,2456,10
+229,"knee motion",12,2167,20
+230,"subjective scores",12,1796,20
+230,"artificial turf",12,1796,19
+231,"outcomes of all reconstruction",12,1301,19
+231,"pivot shift test",12,1301,19
+231,"ANOVA",12,1301,19
+231,"internal fixation",12,1301,19
+232,"collegiate athletes",12,0986,19
+233,"pearson correlation coefficients",12,0847,12
+233,"ACB",12,0847,12
+233,"ht autografts",12,0847,12
+233,"knee society score",12,0847,12
+233,"knee range of motion",12,0847,13
+233,"NRS",12,0847,12
+233,"ESI",12,0847,13
+233,"promis pf",12,0847,11
+233,"acute myocardial infarction",12,0847,12
+233,"ACD",12,0847,13
+234,"CAP",12,0434,19
+235,"heart disease",12,0146,20
+236,"hamstring autograft",11,9914,19
+237,"hop distance",11,9375,19
+238,"NW",11,9221,20
+239,"THA",11,8650,12
+240,"medial femoral condyle",11,8101,12
+241,"HCPs",11,7835,17
+241,"retrospective cohort",11,7835,18
+241,"platelet count",11,7835,18
+242,"lung volumes",11,6769,18
+243,"standard ikdc-skf",11,6755,7
+244,"mental health",11,5525,18
+245,"tunnel position",11,4684,18
+246,"asymptomatic knees",11,3874,18
+247,"MLDFA",11,2661,7
+247,"arthroscopic acl reconstruction",11,2661,8
+247,"aclr with st graft",11,2661,8
+248,"tegner scores",11,2636,20
+249,"acl top",11,0904,8
+249,"prospective cohort",11,0904,17
+249,"cartilage repair",11,0904,17
+249,"secondary outcomes",11,0904,17
+249,"BFRT",11,0904,9
+249,"oxidative stress",11,0904,17
+249,"RTKA",11,0904,8
+249,"EDAC",11,0904,9
+250,"lung transplantation",11,0326,17
+251,"copd mortality",10,9978,8
+252,"lysholm knee score",10,9861,11
+252,"rts test batteries",10,9861,11
+252,"ROS",10,9861,11
+252,"pr program",10,9861,11
+252,"CSE",10,9861,11
+252,"RSP",10,9861,11
+252,"FOA",10,9861,10
+253,"QT",10,9171,18
+254,"consecutive patients",10,8593,17
+255,"patient satisfaction",10,8131,17
+256,"TJA",10,8030,11
+257,"effect size",10,7438,19
+258,"airflow obstruction",10,6745,17
+259,"oxygen therapy",10,6571,17
+260,"StAR",10,6283,10
+261,"linear regression",10,5705,17
+262,"AL",10,5358,17
+263,"PH",10,5127,17
+264,"patient characteristics",10,3972,16
+264,"muscle function",10,3972,17
+264,"incidence rates",10,3972,16
+264,"cox proportional hazards model",10,3972,9
+264,"effective treatment",10,3972,16
+265,"functional scores",10,3279,16
+266,"TACO",10,3270,11
+267,"sports injuries",10,2982,16
+267,"airway obstruction",10,2982,16
+268,"peak torque",10,2239,16
+269,"anatomic reconstruction",10,1893,16
+270,"ncfb patients",10,1662,9
+271,"knee flexors",10,0506,16
+271,"rate ratio",10,0506,16
+272,"PFPS",9,8875,9
+272,"acute kidney injury",9,8875,10
+272,"MAT",9,8875,10
+272,"CHF",9,8875,10
+272,"PTOA",9,8875,10
+272,"4MGS",9,8875,9
+273,"TT",9,8773,16
+274,"aPL",9,8196,16
+275,"SEBT",9,7296,5
+276,"non-contact acl",9,7041,8
+276,"LTPs",9,7041,8
+276,"acl group",9,7041,8
+276,"primary repair",9,7041,15
+276,"complication rate",9,7041,15
+276,"risk of acl injuries",9,7041,8
+276,"diabetes mellitus",9,7041,14
+276,"knee magnetic resonance imaging",9,7041,8
+276,"IFN",9,7041,15
+276,"hemorrhagic component of endobronchial inflammation",9,7041,7
+276,"cell distribution",9,7041,16
+277,"association between chronic obstructive pulmonary disease",9,6566,7
+277,"HFrEF",9,6566,7
+277,"copd cases",9,6566,7
+278,"sagittal plane",9,6347,15
+279,"mortality rates",9,6270,15
+280,"TCM",9,6174,15
+281,"knee arthroscopy",9,6050,15
+282,"cartilage damage",9,5885,15
+282,"adverse effects",9,5885,15
+283,"solid fuels",9,5654,15
+284,"injury prevention",9,5500,15
+285,"follow-up period",9,5308,15
+286,"inspiratory muscle training",9,5213,10
+286,"ART",9,5213,10
+286,"prevalence of chronic diseases",9,5213,12
+286,"mammalian target of rapamycin",9,5213,10
+287,"HFNC",9,4481,10
+288,"medial condyle",9,4268,16
+288,"linear model",9,4268,15
+289,"blood eosinophil",9,3960,15
+290,"patient 's risk",9,3575,15
+290,"exercise capacity",9,3575,15
+291,"incidence of chronic diseases",9,3382,11
+292,"tendon for anterior cruciate ligament reconstruction",9,2543,7
+293,"growth factors",9,1495,15
+293,"intensive care",9,1495,16
+294,"single leg",9,1099,15
+295,"ED",9,0109,14
+295,"acute anterior cruciate ligament",9,0109,10
+295,"APS",9,0109,14
+295,"growth disturbance",9,0109,14
+295,"mean score",9,0109,14
+295,"HGS",9,0109,13
+295,"ER",9,0109,15
+295,"exercise training",9,0109,14
+296,"RANKL",8,9588,5
+297,"knee extensor",8,9479,14
+297,"peak moments",8,9479,14
+298,"injury among patients",8,9416,14
+299,"meniscal tears",8,9339,14
+300,"isokinetic strength",8,9243,14
+300,"minimum follow-up",8,9243,14
+301,"ramp lesion",8,9119,14
+302,"MSKI",8,8954,14
+303,"JR",8,8723,14
+304,"extracellular matrix",8,8569,14
+305,"anatomic acl reconstruction",8,8519,7
+306,"quadriceps muscle",8,8129,14
+306,"tendon graft",8,8129,14
+307,"avulsion fractures",8,8030,14
+308,"graft failure rates",8,7889,9
+308,"patient-reported outcome measures",8,7889,9
+308,"tegner activity score",8,7889,11
+308,"femoral tunnel position",8,7889,9
+308,"SPC",8,7889,9
+308,"MDP",8,7889,9
+309,"adult patients",8,7799,14
+309,"life expectancy",8,7799,14
+310,"prevalence rates",8,7139,14
+311,"patient factors",8,6643,14
+311,"TA",8,6643,15
+311,"in-hospital mortality",8,6643,14
+311,"knee valgus",8,6643,14
+312,"cross-sectional area",8,5488,14
+312,"NHF",8,5488,14
+313,"joint kinematics",8,5158,14
+314,"lung cancer patients",8,5142,9
+315,"pearson correlations",8,4911,16
+316,"activity score",8,4564,15
+317,"primary aclr",8,4227,9
+317,"medial tibial plateau",8,4227,9
+318,"disease incidence",8,4168,14
+319,"knee valgus angle",8,3495,9
+320,"primary care",8,3178,13
+320,"contralateral knee",8,3178,13
+320,"maximal voluntary isometric contraction",8,3178,7
+320,"acl deficiency",8,3178,7
+320,"acl tears",8,3178,7
+320,"median age",8,3178,13
+320,"standard deviation",8,3178,13
+320,"tt-tg distance",8,3178,6
+320,"acl attachment",8,3178,7
+320,"knee after anterior cruciate ligament",8,3178,7
+320,"TAcs",8,3178,6
+320,"mechanical ventilation",8,3178,13
+320,"extracorporeal carbon dioxide removal",8,3178,7
+320,"PA",8,3178,13
+320,"PADL",8,3178,7
+320,"sle patients",8,3178,7
+320,"failures among patients",8,3178,13
+320,"CO",8,3178,13
+320,"BLVR",8,3178,7
+320,"HMPV",8,3178,13
+321,"injury incidence",8,2407,13
+322,"adductor canal",8,2022,14
+322,"exacerbation rate",8,2022,13
+323,"TF",8,1791,13
+324,"mean follow-up",8,1197,13
+325,"hip flexion",8,0578,13
+325,"distal femur",8,0578,13
+326,"sBPA",8,0565,9
+327,"acute acl injury",8,0472,5
+327,"cochrane central register of controlled trials",8,0472,5
+327,"acl reconstruction surgery",8,0472,6
+327,"concomitant mpflr",8,0472,6
+327,"copd care",8,0472,6
+327,"copd model",8,0472,6
+327,"CDPoRT",8,0472,5
+327,"risk of anterior cruciate ligament injury",8,0472,6
+327,"BP-MOHTO",8,0472,5
+328,"physical therapy",8,0405,13
+328,"revision surgery",8,0405,13
+328,"disease progression",8,0405,13
+328,"incidence of anterior cruciate ligament",8,0405,7
+329,"operative characteristics",7,9712,15
+329,"knee laxity",7,9712,13
+329,"disease management",7,9712,13
+330,"stem cells",7,9019,14
+331,"meniscus injuries",7,8557,13
+332,"joint moments",7,7979,13
+332,"knee replacement",7,7979,14
+332,"pulmonary arteries",7,7979,14
+333,"patients with aecopd",7,7836,4
+334,"risk of knee injury",7,6903,8
+334,"knee joint kinematics",7,6903,8
+334,"unilateral aclr",7,6903,8
+334,"lateral femoral condyle",7,6903,8
+334,"single-leg hop for distance",7,6903,8
+334,"KAM",7,6903,8
+334,"discoid medial meniscus",7,6903,8
+334,"NSAIDs",7,6903,8
+334,"length of hospital stay",7,6903,7
+334,"pulmonary function tests",7,6903,8
+334,"FVC",7,6903,7
+334,"revision aclr",7,6903,9
+334,"oca transplantation",7,6903,8
+334,"BALF",7,6903,8
+334,"knee kinetic variables",7,6903,8
+334,"AID",7,6903,8
+334,"vitamin d deficiency",7,6903,8
+335,"chondrocyte apoptosis",7,6246,12
+335,"battery of tests",7,6246,14
+335,"dna methylation",7,6246,12
+335,"university hospital",7,6246,12
+335,"full-text article",7,6246,11
+335,"BCS-TKA",7,6246,7
+335,"average age",7,6246,12
+335,"CA",7,6246,11
+335,"treatment in patients",7,6246,12
+335,"cystic fibrosis",7,6246,12
+335,"SC",7,6246,12
+336,"knee rotations",7,5553,12
+336,"graft reconstruction",7,5553,12
+336,"football players",7,5553,12
+337,"score of group",7,5380,12
+338,"quadriceps strength",7,5256,12
+339,"p-acl tx",7,5107,6
+339,"smokers with copd",7,5107,6
+340,"lung tissues",7,5091,12
+340,"ligament tissue",7,5091,12
+340,"all-cause mortality",7,5091,12
+340,"cold spells",7,5091,12
+341,"plc injury",7,4706,8
+341,"tibial plateau fractures",7,4706,8
+342,"overuse injuries",7,4513,12
+342,"cartilage thickness",7,4513,12
+342,"long-term outcomes",7,4513,12
+342,"MA",7,4513,13
+343,"postoperative scores",7,4266,12
+344,"HBE",7,4156,8
+345,"paediatric anterior cruciate ligament",7,3936,7
+345,"patient age",7,3936,13
+345,"cartilage injuries",7,3936,12
+346,"kidney injury",7,3647,12
+346,"epithelial cells",7,3647,12
+347,"meniscal transplantation",7,2285,12
+348,"hospital readmission",7,2087,12
+349,"partial transphyseal aclr",7,1670,4
+349,"patients with severe copd",7,1670,5
+350,"patellofemoral instability",7,1625,12
+350,"BAL",7,1625,12
+351,"MIP",7,1410,9
+352,"length of stay",7,1048,13
+353,"post-traumatic osteoarthritis",7,0470,12
+354,"acl cases",6,9315,6
+354,"CMJ",6,9315,11
+354,"pass question",6,9315,6
+354,"knee joint stability tests",6,9315,5
+354,"postoperative mri",6,9315,6
+354,"lars acl",6,9315,6
+354,"patient population",6,9315,11
+354,"ORIF",6,9315,6
+354,"hip moments",6,9315,11
+354,"mortality in patients",6,9315,11
+354,"concomitant anterior cruciate ligament",6,9315,6
+354,"treatment option",6,9315,11
+354,"open reduction",6,9315,13
+354,"septic arthritis",6,9315,11
+354,"neuromuscular control",6,9315,11
+354,"right knee",6,9315,11
+354,"healthcare utilization",6,9315,11
+354,"fPCA",6,9315,5
+354,"HRRP",6,9315,6
+354,"patients with ipf",6,9315,5
+354,"comorbid conditions",6,9315,11
+354,"mMRC",6,9315,6
+354,"patient 's symptoms",6,9315,11
+354,"NPSLE",6,9315,6
+354,"acl volume",6,9315,6
+354,"incident acd",6,9315,5
+354,"household members",6,9315,11
+354,"LUCL",6,9315,6
+354,"CEACAM1",6,9315,11
+354,"LLIF",6,9315,5
+354,"subjects with jia",6,9315,5
+355,"national health",6,8545,11
+356,"peripheral blood",6,8448,11
+356,"blood flow",6,8448,11
+356,"cartilage defects",6,8448,11
+357,"drop jump",6,8325,11
+357,"COD",6,8325,11
+358,"pulmonary tuberculosis",6,7928,11
+359,"lars ligament",6,7582,11
+359,"physical examination",6,7582,11
+359,"type ii",6,7582,11
+359,"lateral condyle",6,7582,12
+359,"defect size",6,7582,11
+359,"diseases group",6,7582,11
+360,"knee after surgery",6,7334,11
+360,"skeletal muscle",6,7334,11
+360,"collagen types",6,7334,11
+361,"failure risk",6,7004,11
+362,"reconstruction surgery",6,6542,11
+362,"vaccination coverage",6,6542,11
+363,"apnea patients",6,6344,11
+363,"knee muscles",6,6344,11
+363,"traumatic injury",6,6344,11
+363,"limb loss",6,6344,11
+364,"OKS",6,5917,7
+364,"cap group",6,5917,6
+364,"fao group",6,5917,6
+364,"lateral tibial plateau",6,5917,7
+364,"qt group",6,5917,6
+364,"ht group",6,5917,6
+364,"notch width index",6,5917,6
+364,"multivariate regression analysis",6,5917,7
+364,"lateral knee compartment",6,5917,6
+364,"femoral tunnel location",6,5917,7
+364,"aclr cost",6,5917,7
+364,"THR",6,5917,6
+364,"TKR",6,5917,7
+364,"ACI",6,5917,7
+364,"SASP",6,5917,6
+364,"aco definitions",6,5917,7
+364,"aco patients",6,5917,6
+364,"secondary cognitive task",6,5917,6
+364,"coronary heart disease",6,5917,7
+364,"BECs",6,5917,7
+364,"interstitial lung disease",6,5917,7
+364,"pulmonary arterial hypertension",6,5917,6
+364,"public health facilities",6,5917,7
+364,"IHD",6,5917,9
+364,"rapid rt-pcr assay",6,5917,6
+364,"PU",6,5917,7
+364,"JIA",6,5917,9
+364,"PTSD",6,5917,7
+365,"radiographic oa",6,5849,11
+365,"treatment group",6,5849,11
+365,"mortality risk",6,5849,11
+365,"motor performance",6,5849,12
+365,"3d mri",6,5849,6
+366,"anterior group",6,5156,11
+366,"airflow limitation",6,5156,11
+367,"postoperative pain",6,4694,11
+367,"tt-tg values",6,4694,6
+367,"nasal cannula",6,4694,11
+368,"acl reconstruction technique",6,4378,5
+368,"rate of acl reconstruction",6,4378,5
+368,"isolated mpfl reconstruction",6,4378,4
+368,"stages in copd",6,4378,5
+368,"copd status",6,4378,5
+368,"copd population",6,4378,5
+368,"misdiagnosis in copd",6,4378,4
+368,"sf pacap",6,4378,4
+368,"bilateral acl rupture",6,4378,5
+368,"sls copd",6,4378,5
+368,"rats with chronic obstructive pulmonary disease",6,4378,5
+369,"PRP",6,4116,11
+370,"relative elongation",6,3770,11
+371,"tibial tunnel apertures",6,3720,7
+371,"behavioral risk factors",6,3720,7
+372,"knee muscle strength",6,3170,7
+373,"groups d",6,2383,10
+373,"postoperative complications",6,2383,10
+373,"orthopaedic surgeons",6,2383,10
+373,"patella fracture",6,2383,10
+373,"thigh circumference",6,2383,10
+373,"primary endpoint",6,2383,9
+373,"tunnel placements",6,2383,10
+373,"group b",6,2383,10
+373,"cochrane library",6,2383,10
+373,"methodological quality",6,2383,10
+373,"cartilage degeneration",6,2383,10
+373,"functional recovery",6,2383,10
+373,"group db",6,2383,10
+373,"animal models",6,2383,10
+373,"clinical effects",6,2383,10
+373,"kujala score",6,2383,10
+373,"AC",6,2383,10
+373,"associations between diseases",6,2383,11
+373,"respiratory symptoms",6,2383,10
+373,"diagnostic mri",6,2383,6
+373,"GIB",6,2383,10
+373,"CRC",6,2383,10
+373,"smoking exposure",6,2383,11
+373,"potential effects",6,2383,10
+374,"airway epithelial cells",6,2255,7
+375,"national database",6,1393,10
+376,"knee alignment",6,1228,10
+377,"knee symptoms",6,0997,10
+377,"socioeconomic status",6,0997,10
+378,"GT",6,0650,10
+378,"common injury",6,0650,10
+378,"functional capacity",6,0650,10
+378,"systemic inflammation",6,0650,10
+379,"patients with different disease severity",6,0424,7
+379,"NRT",6,0424,7
+380,"pulmonary cases",6,0403,10
+381,"hamstring graft",6,0073,10
+381,"patellar instability",6,0073,10
+381,"health coaching",6,0073,10
+382,"contact force",5,9611,10
+382,"clinical research",5,9611,10
+383,"full extension",5,8918,10
+383,"active patients",5,8918,11
+383,"4-strand grafts",5,8918,10
+383,"preoperative score",5,8918,10
+383,"combination therapy",5,8918,10
+383,"meniscal root",5,8918,10
+383,"arterial hypertension",5,8918,11
+383,"nerve block",5,8918,10
+383,"patients without frequent exacerbations",5,8918,10
+384,"tegner scale",5,8224,10
+384,"model rats",5,8224,10
+385,"SH",5,7762,10
+385,"articular surface",5,7762,10
+385,"rts testing",5,7762,12
+386,"eosinophil count",5,7185,10
+386,"knee abduction",5,7185,10
+387,"testing leg",5,6838,10
+388,"revision acl surgery",5,6330,5
+388,"copd hospitalization",5,6330,5
+389,"native acl",5,5452,5
+389,"healthy volunteers",5,5452,10
+389,"ACL",5,5452,8
+389,"protein expression",5,5452,9
+389,"test-retest reliability",5,5452,9
+389,"vastus medialis",5,5452,9
+389,"pain scores",5,5452,9
+389,"autograft for anterior cruciate ligament",5,5452,5
+389,"clinical course",5,5452,9
+389,"statistical analysis",5,5452,9
+389,"management of anterior cruciate ligament",5,5452,5
+389,"2-year follow-up",5,5452,9
+389,"univariate analysis",5,5452,9
+389,"acl antibodies",5,5452,5
+389,"revision aclr patients",5,5452,4
+389,"implicit mip",5,5452,4
+389,"future research",5,5452,9
+389,"ML",5,5452,8
+389,"gait analysis",5,5452,11
+389,"mcl in grade",5,5452,5
+389,"patellar dislocation",5,5452,9
+389,"mri measurements",5,5452,5
+389,"synovial inflammation",5,5452,9
+389,"CE-MRI",5,5452,7
+389,"Q-DSA",5,5452,5
+389,"depressive symptoms",5,5452,9
+389,"KJCE",5,5452,4
+389,"LA",5,5452,9
+389,"eccentric knee flexor strength",5,5452,4
+389,"pcl reconstruction",5,5452,5
+389,"PI",5,5452,9
+389,"body mass",5,5452,9
+389,"clinical characteristics",5,5452,9
+389,"MPTA",5,5452,6
+389,"root tears",5,5452,9
+389,"DCs",5,5452,10
+389,"BEST",5,5452,4
+389,"stratified payment adjustment method",5,5452,4
+389,"risk of asthma",5,5452,10
+389,"medical research council scale",5,5452,5
+389,"respiratory questionnaire",5,5452,9
+389,"receiver operating characteristic analysis",5,5452,5
+389,"data from patients",5,5452,9
+389,"RDAC",5,5452,4
+389,"index date",5,5452,8
+389,"CPAP",5,5452,5
+389,"patellofemoral injuries",5,5452,9
+389,"healthy subjects",5,5452,9
+389,"cutoff point",5,5452,9
+389,"bone socket",5,5452,9
+389,"SOA",5,5452,8
+389,"china national knowledge infrastructure",5,5452,4
+389,"sleep duration",5,5452,9
+389,"knee torque",5,5452,9
+389,"dominant diseases",5,5452,9
+389,"tendons in groups",5,5452,14
+390,"bone-patellar tendon-bone graft",5,4931,6
+390,"ATS",5,4931,6
+390,"MAD",5,4931,6
+390,"RSI",5,4931,6
+390,"mean age of patients",5,4931,6
+390,"lateral tibial slope",5,4931,9
+390,"soft tissue healing",5,4931,6
+390,"silk fibroin coating",5,4931,6
+390,"al ligament",5,4931,6
+390,"K-SES",5,4931,5
+390,"hill type knees",5,4931,6
+390,"BMLs",5,4931,6
+390,"pfi group",5,4931,6
+390,"linear mixed models",5,4931,6
+390,"symptomatic knee oa",5,4931,6
+390,"statistical parametric mapping",5,4931,6
+390,"group sb",5,4931,6
+390,"NHE",5,4931,5
+390,"graft conditioning protocols",5,4931,6
+390,"SCB",5,4931,5
+390,"non-criteria apls",5,4931,5
+390,"distal femur fracture",5,4931,6
+390,"STGA",5,4931,6
+390,"BWT",5,4931,6
+390,"BBS",5,4931,5
+390,"ESR",5,4931,5
+390,"chronic bronchitis symptoms",5,4931,5
+390,"potential risk factors",5,4931,6
+390,"peripheral vascular disease",5,4931,5
+390,"upper limb exercise",5,4931,6
+390,"linear regression analysis",5,4931,6
+390,"ASA",5,4931,6
+390,"chest ct",5,4931,6
+390,"patients with acute exacerbation",5,4931,7
+390,"enteral oxygen therapy",5,4931,5
+390,"FLSS",5,4931,5
+391,"common disease",5,4462,9
+392,"frontal planes",5,4297,9
+392,"intercondylar notch",5,4297,9
+392,"effectiveness of training",5,4297,9
+392,"health survey",5,4297,9
+392,"epidermolysis bullosa",5,4297,9
+392,"inflammatory disease",5,4297,9
+393,"muscle activation",5,4065,9
+393,"landing patterns",5,4065,9
+393,"PSI",5,4065,9
+394,"anatomic single-bundle acl reconstruction",5,3753,3
+394,"risk of early acl revision",5,3753,3
+394,"superior lateral genicular artery perforator flap",5,3753,3
+394,"long-term outcome after mpfl reconstruction",5,3753,3
+394,"acl graft conditioning protocols",5,3753,4
+394,"frequency of copd exacerbations",5,3753,3
+394,"non-smoker copd group",5,3753,3
+395,"4-month follow-up",5,3719,9
+395,"cell proliferation",5,3719,9
+395,"practice alert",5,3719,10
+395,"airway dynamics",5,3719,10
+396,"nerve injury",5,3141,9
+396,"literature review",5,3141,9
+396,"cadaveric knees",5,3141,9
+396,"classification system",5,3141,9
+396,"composite score",5,3141,9
+396,"prevention programs",5,3141,9
+396,"chronic conditions",5,3141,9
+397,"strength deficits",5,2679,9
+398,"chronic airways diseases",5,2184,6
+398,"clinical trial registration",5,2184,6
+399,"spearman correlation",5,1986,9
+399,"gait outcomes",5,1986,9
+399,"TS",5,1986,9
+400,"discoid meniscus",5,1293,9
+400,"disease in older adults",5,1293,9
+401,"aclr group",5,1269,6
+401,"single leg landing",5,1269,6
+401,"adults with chronic disease",5,1269,6
+402,"kinetic variables",5,0831,10
+402,"acl in clinic",5,0831,5
+402,"hap exposure",5,0831,5
+403,"propensity score",5,0831,9
+403,"preoperative pain",5,0831,9
+404,"femoral notch",5,0253,9
+404,"retrospective review",5,0253,9
+405,"rat model of oa",4,9438,6
+405,"maximal voluntary contractions",4,9438,8
+405,"knee injury history",4,9438,6
+406,"lachman test",4,8520,9
+406,"surgical procedures",4,8520,8
+406,"patients with cad",4,8520,5
+406,"chi-square test",4,8520,7
+406,"internal consistency",4,8520,8
+406,"demographic data",4,8520,8
+406,"conventional group",4,8520,7
+406,"sample sizes",4,8520,8
+406,"gonorrhea diagnosis",4,8520,7
+406,"signal intensity",4,8520,7
+406,"1-year follow-up",4,8520,8
+406,"pivot shift",4,8520,8
+406,"graft type",4,8520,8
+406,"clinical application",4,8520,8
+406,"reduction event",4,8520,8
+406,"tibial insertion",4,8520,8
+406,"patient samples",4,8520,8
+406,"independent predictors",4,8520,8
+406,"acld knee",4,8520,8
+406,"revision rates",4,8520,8
+406,"UGC",4,8520,8
+406,"functional acl",4,8520,5
+406,"postoperative imaging",4,8520,9
+406,"bempedoic acid",4,8520,8
+406,"ligament healing",4,8520,8
+406,"injury grade",4,8520,8
+406,"oa progression",4,8520,8
+406,"clinical examination",4,8520,8
+406,"clinical relevance",4,8520,8
+406,"psychometric properties",4,8520,7
+406,"successful outcome",4,8520,8
+406,"YBT",4,8520,8
+406,"long-term exposure",4,8520,8
+406,"smoking history",4,8520,8
+406,"risk of readmission",4,8520,8
+406,"exercise tolerance",4,8520,8
+406,"exacerbation frequency",4,8520,9
+406,"risk of exacerbation",4,8520,8
+406,"health plan",4,8520,8
+406,"vital capacity",4,8520,11
+406,"training program",4,8520,8
+406,"basketball players",4,8520,8
+406,"common comorbidities",4,8520,8
+406,"DPI",4,8520,8
+406,"ankle angles",4,8520,8
+406,"inflammatory response",4,8520,8
+406,"self-management program",4,8520,8
+407,"transphyseal acl reconstruction",4,8283,7
+407,"postoperative international knee documentation committee",4,8283,4
+407,"double-bundle acl reconstruction",4,8283,4
+407,"contralateral acl injury",4,8283,3
+407,"single-bundle acl reconstruction",4,8283,5
+407,"injuries during anterior cruciate ligament",4,8283,4
+407,"DCE-MRI",4,8283,3
+407,"BM-MSCs",4,8283,3
+407,"patients with acl injuries",4,8283,4
+407,"ncaa football",4,8283,4
+407,"rates of acl injuries",4,8283,4
+407,"SLDT",4,8283,3
+407,"SLVT",4,8283,3
+407,"diagnosis of ahrf",4,8283,3
+407,"copd disease symptoms",4,8283,4
+407,"copd literature",4,8283,3
+407,"pediatric acl injury",4,8283,4
+407,"people with copd",4,8283,3
+407,"behavioral risk factor surveillance system",4,8283,4
+407,"acl relative elongation",4,8283,4
+407,"control over copd",4,8283,4
+407,"copd in nonsmokers",4,8283,5
+407,"patellar tendon tibial shaft angle",4,8283,3
+407,"impact of copd",4,8283,3
+407,"combination with chronic obstructive pulmonary disease",4,8283,4
+407,"application of normobaric interval hypoxic therapy",4,8283,3
+407,"copd complexity",4,8283,4
+408,"mcmaster universities index",4,7607,6
+409,"tibial aperture",4,7365,8
+409,"reconstruction failure",4,7365,8
+409,"ligament deficiency",4,7365,8
+409,"periprosthetic fractures",4,7365,8
+409,"tunnel apertures",4,7365,8
+409,"cox regression",4,7365,8
+410,"MEP",4,7134,8
+410,"extremity injuries",4,7134,8
+410,"fracture fixation",4,7134,8
+410,"coordination variability",4,7134,8
+410,"postprandial glucose",4,7134,8
+410,"chronic inflammation",4,7134,8
+411,"extensor mechanism",4,6787,8
+411,"soccer players",4,6787,8
+411,"injury types",4,6787,8
+411,"disease burden",4,6787,8
+411,"score values",4,6787,8
+412,"anterolateral capsule",4,6210,8
+412,"occupational exposures",4,6210,8
+413,"cutaneous leishmaniasis",4,5748,8
+413,"cell cycle",4,5748,8
+413,"patients with osteoarthritis",4,5748,8
+414,"regression analyses",4,5055,8
+414,"QH",4,5055,8
+414,"AF",4,5055,8
+414,"risk of bias",4,5055,8
+414,"lysholm 's knee",4,5055,12
+415,"rate of copd exacerbations",4,4794,4
+416,"MHDs",4,3944,5
+416,"ONS",4,3944,5
+416,"logistic regression models",4,3944,5
+416,"knee joint stability",4,3944,7
+416,"AMT",4,3944,4
+416,"femoral bone tunnel",4,3944,5
+416,"ENA",4,3944,5
+416,"protein c activity",4,3944,5
+416,"ct group",4,3944,4
+416,"tegner activity scale",4,3944,6
+416,"anterior tibial translation",4,3944,5
+416,"bone-patellar tendon-bone autograft",4,3944,5
+416,"ligament fixation after reconstruction",4,3944,5
+416,"POL",4,3944,5
+416,"anterior knee laxity",4,3944,5
+416,"JSW",4,3944,5
+416,"patients with knee osteoarthritis",4,3944,5
+416,"bptb group",4,3944,5
+416,"surgical site infection",4,3944,4
+416,"retrospective chart review",4,3944,4
+416,"qh graft",4,3944,5
+416,"internal rotation angles",4,3944,5
+416,"mep torque",4,3944,5
+416,"knee extensor strength",4,3944,5
+416,"motion capture system",4,3944,5
+416,"injury prevention program",4,3944,5
+416,"tibia plateau fractures",4,3944,4
+416,"measures analysis of variance",4,3944,4
+416,"knee flexion moment",4,3944,6
+416,"TJM",4,3944,5
+416,"prp group",4,3944,5
+416,"non-injured rf",4,3944,4
+416,"FPAI",4,3944,5
+416,"deep vein thrombosis",4,3944,5
+416,"multivariable logistic regression",4,3944,5
+416,"urinary tract infection",4,3944,5
+416,"isometric peak torque",4,3944,5
+416,"turned-over patella group",4,3944,4
+416,"IRR",4,3944,4
+416,"respiratory muscle strength",4,3944,5
+416,"LRT",4,3944,4
+416,"niv failure",4,3944,5
+416,"NRD",4,3944,5
+416,"acute respiratory infections",4,3944,5
+416,"AAP",4,3944,5
+416,"random effects meta-analysis",4,3944,4
+416,"enhanced recovery after surgery",4,3944,4
+416,"lung function decline",4,3944,5
+416,"WBC",4,3944,4
+416,"meniscal root repair",4,3944,5
+416,"femoral notch width",4,3944,4
+416,"lung function in patients",4,3944,5
+416,"research ethics committee",4,3944,5
+416,"injury risk factors",4,3944,5
+416,"FGF",4,3944,4
+416,"dystrophic epidermolysis bullosa",4,3944,5
+416,"patellar tendon reconstruction",4,3944,5
+416,"PAM",4,3944,4
+416,"SABR",4,3944,6
+416,"amateur futsal players",4,3944,5
+416,"SCI",4,3944,5
+416,"knee audio score",4,3944,5
+416,"subjects with airflow obstruction",4,3944,4
+416,"hypoxemic respiratory failure",4,3944,5
+416,"DHT",4,3944,5
+416,"RTIs",4,3944,5
+417,"knee kinetics",4,3899,9
+418,"chronic pain",4,3899,8
+418,"inflammatory markers",4,3899,8
+419,"anterior laxity",4,3322,8
+419,"symptomatic oa",4,3322,8
+419,"payment method",4,3322,8
+419,"bayesian network",4,3322,8
+420,"gov identifier",4,1589,6
+420,"interference screw",4,1589,7
+420,"tegner activity scale score",4,1589,3
+420,"psychological factors",4,1589,6
+420,"rotational stability",4,1589,7
+420,"medial unicompartmental knee arthroplasty",4,1589,3
+420,"data collection",4,1589,7
+420,"graft fixation",4,1589,7
+420,"human acls",4,1589,4
+420,"flow cytometry",4,1589,7
+420,"inflammatory cytokines",4,1589,7
+420,"limb dominance",4,1589,7
+420,"choice of graft",4,1589,7
+420,"peroneus longus",4,1589,7
+420,"iii mcl",4,1589,4
+420,"anterior subluxation",4,1589,9
+420,"sports activity",4,1589,8
+420,"transverse plane",4,1589,7
+420,"koos subscales",4,1589,7
+420,"diagnosis of oa",4,1589,7
+420,"strong correlation",4,1589,7
+420,"q fever",4,1589,7
+420,"contralateral limbs",4,1589,7
+420,"patient demographics",4,1589,7
+420,"acl remnant",4,1589,4
+420,"patient selection",4,1589,7
+420,"prediction factor",4,1589,7
+420,"cartilage lesions",4,1589,7
+420,"web of science",4,1589,6
+420,"RNOH",4,1589,3
+420,"hill types",4,1589,9
+420,"iii pcl",4,1589,3
+420,"rabbits ' acls",4,1589,4
+420,"osteophyte formation",4,1589,6
+420,"infill weights",4,1589,7
+420,"accuracy of mri",4,1589,3
+420,"agreement between magnetic resonance imaging",4,1589,4
+420,"pediatric population",4,1589,6
+420,"subgroup analysis",4,1589,7
+420,"KJCB",4,1589,3
+420,"disease status",4,1589,7
+420,"intervention group",4,1589,7
+420,"mcmaster universities osteoarthritis index",4,1589,4
+420,"clinical efficacy",4,1589,7
+420,"concomitant pathology",4,1589,7
+420,"patient comorbidities",4,1589,7
+420,"cellular senescence",4,1589,7
+420,"functional activities",4,1589,7
+420,"GS",4,1589,7
+420,"max knee flexion angle",4,1589,3
+420,"response rate",4,1589,6
+420,"rf strain injury",4,1589,4
+420,"medial meniscal",4,1589,8
+420,"natural grass",4,1589,7
+420,"TTAF",4,1589,3
+420,"literature search",4,1589,7
+420,"extension strength",4,1589,7
+420,"achilles tendon",4,1589,7
+420,"symptom burden",4,1589,6
+420,"acl tissues",4,1589,4
+420,"adjustable cortical fixation system",4,1589,3
+420,"deprivation group",4,1589,7
+420,"dynamic cardiac constraints index",4,1589,3
+420,"clinical data",4,1589,7
+420,"smoking cessation",4,1589,7
+420,"backhand-side court after overhead stroke",4,1589,3
+420,"chondral delamination with intact articular surface",4,1589,3
+420,"knee contact",4,1589,7
+420,"independent factors",4,1589,7
+420,"cci score",4,1589,3
+420,"family caregivers",4,1589,6
+420,"particulate matter",4,1589,7
+420,"PKFA",4,1589,3
+420,"ligamentous insertions",4,1589,7
+420,"diagnostic accuracy",4,1589,7
+420,"hiv patients",4,1589,4
+420,"types iii",4,1589,7
+420,"control patients",4,1589,7
+420,"total arterial myocardial revascularization",4,1589,3
+420,"PBMCs",4,1589,4
+420,"bone markers",4,1589,6
+420,"esi groups",4,1589,3
+420,"chronic breathlessness",4,1589,7
+420,"airways of patients",4,1589,7
+420,"infrapatellar nerve block with lidocaine",4,1589,3
+420,"acl length",4,1589,4
+420,"asthma remission",4,1589,7
+420,"APSD",4,1589,4
+420,"taco cases",4,1589,4
+420,"cor pulmonale",4,1589,7
+420,"mPAP",4,1589,3
+420,"RVSP",4,1589,3
+420,"patients with ihd",4,1589,3
+420,"eccentric strength",4,1589,8
+420,"patients with chronic respiratory diseases",4,1589,4
+420,"clinical practice research datalink",4,1589,3
+420,"outpatient tka",4,1589,3
+420,"DASS",4,1589,3
+420,"blood lead",4,1589,6
+420,"icu doctors",4,1589,3
+421,"knee-related quality of life",4,0282,5
+421,"koos qol",4,0282,5
+422,"unilateral anterior cruciate ligament reconstruction",4,0236,4
+423,"dynamic balance",4,0203,7
+423,"trial registration",4,0203,7
+423,"total score",4,0203,7
+423,"ambient air",4,0203,7
+423,"postoperative function",4,0203,7
+424,"arthroscopic surgery",3,9856,7
+424,"incident asthma",3,9856,7
+424,"plasma-derived immunoglobulins",3,9856,7
+425,"patient records",3,9278,7
+425,"anti-gapdh autoantibodies",3,9278,7
+425,"mobile phone",3,9278,7
+426,"post-traumatic oa",3,9278,8
+426,"oa group",3,9278,8
+426,"lateral plateau",3,9278,8
+426,"carbon dioxide",3,9278,8
+427,"dynamic knee valgus",3,8451,5
+427,"recurrent patellar instability",3,8451,5
+427,"peak knee flexion",3,8451,6
+427,"payment adjustment methods",3,8451,6
+427,"non-typeable haemophilus influenzae",3,8451,5
+427,"re-revision aclr",3,8451,5
+427,"patellar tendon rupture",3,8451,5
+428,"nutritional supplement",3,8123,8
+428,"graft diameter",3,8123,7
+428,"ligament volume",3,8123,7
+428,"stance phase",3,8123,7
+428,"improvements in outcome",3,8123,7
+428,"lateral compartment",3,8123,9
+428,"tendon rupture",3,8123,7
+428,"contralateral injuries",3,8123,7
+428,"asthma patients",3,8123,7
+428,"ischemic diseases",3,8123,10
+428,"q-h coherence",3,8123,7
+428,"patients with less pain",3,8123,7
+429,"unilateral landing",3,6968,7
+429,"mental disorders",3,6968,7
+430,"post p-acl tx",3,5835,3
+430,"lung function in chronic obstructive pulmonary disease",3,5835,3
+430,"elderly patients with chronic obstructive pulmonary disease",3,5835,3
+431,"elite athletes",3,4657,5
+431,"general anesthesia",3,4657,6
+431,"postoperative period",3,4657,6
+431,"venous thrombosis",3,4657,6
+431,"mechanical properties",3,4657,6
+431,"flexion gap",3,4657,7
+431,"computational models",3,4657,5
+431,"corticospinal excitability",3,4657,6
+431,"muscle volume",3,4657,7
+431,"cumulative failure",3,4657,5
+431,"musculoskeletal system",3,4657,5
+431,"single institution",3,4657,6
+431,"clinical significance",3,4657,6
+431,"exclusion criteria",3,4657,5
+431,"ft group",3,4657,5
+431,"accurate diagnosis",3,4657,5
+431,"force plate",3,4657,6
+431,"risk for complications",3,4657,6
+431,"sports participation",3,4657,6
+431,"effect of ligament",3,4657,6
+431,"allograft tissue",3,4657,6
+431,"conventional technique",3,4657,6
+431,"success rate",3,4657,6
+431,"case report",3,4657,6
+431,"stress radiography",3,4657,6
+431,"injured knee",3,4657,6
+431,"autograft groups",3,4657,6
+431,"diabetes type",3,4657,6
+431,"fatigue onset",3,4657,6
+431,"progression of osteoarthritis",3,4657,6
+431,"concomitant injuries",3,4657,6
+431,"clinical assessment",3,4657,6
+431,"mean length",3,4657,6
+431,"cohort of patients",3,4657,6
+431,"anterolateral structures",3,4657,6
+431,"crain type",3,4657,6
+431,"blumensaat 's line",3,4657,5
+431,"repair failures",3,4657,6
+431,"OC",3,4657,6
+431,"environmental factors",3,4657,6
+431,"intermittent group",3,4657,5
+431,"western ontario",3,4657,6
+431,"knee proprioception",3,4657,6
+431,"patient exercises",3,4657,6
+431,"extremity function",3,4657,6
+431,"gait cycle",3,4657,6
+431,"patient perspective",3,4657,6
+431,"model group",3,4657,6
+431,"hip abductor",3,4657,6
+431,"muscle atrophy",3,4657,6
+431,"meniscal surgery",3,4657,6
+431,"definition of mjoa",3,4657,6
+431,"joint hypermobility",3,4657,6
+431,"self-efficacy for pain",3,4657,7
+431,"joint instability",3,4657,6
+431,"normal knee",3,4657,6
+431,"tibial eminence",3,4657,6
+431,"index knee",3,4657,6
+431,"osteochondral lesions",3,4657,6
+431,"figure skaters",3,4657,6
+431,"body composition",3,4657,6
+431,"blood tubes",3,4657,6
+431,"ankle injuries",3,4657,6
+431,"metabolic cost",3,4657,5
+431,"muscle mass",3,4657,6
+431,"interobserver agreement",3,4657,5
+431,"health outcomes",3,4657,6
+431,"management of patients",3,4657,6
+431,"balance measures",3,4657,6
+431,"injury pattern",3,4657,6
+431,"operative treatment",3,4657,6
+431,"TH",3,4657,6
+431,"potential participants",3,4657,6
+431,"depression scale",3,4657,7
+431,"tertiary hospitals",3,4657,6
+431,"rare diseases",3,4657,6
+431,"pneumococcal diseases",3,4657,7
+431,"micro-CT",3,4657,6
+431,"effects of rehabilitation",3,4657,6
+431,"uncemented nails",3,4657,6
+431,"sgrq score",3,4657,6
+431,"blood samples",3,4657,6
+431,"asthma exacerbation",3,4657,5
+431,"rehabilitation of patients",3,4657,6
+431,"SF",3,4657,6
+431,"mental distress",3,4657,5
+431,"inversion angle",3,4657,6
+431,"protective effect",3,4657,6
+431,"suprapatellar pouch",3,4657,5
+431,"PCP",3,4657,6
+431,"volleyball players",3,4657,6
+431,"care of patients",3,4657,6
+431,"EMT",3,4657,6
+431,"aquatic exercise",3,4657,6
+431,"immune response",3,4657,6
+431,"health effects",3,4657,6
+431,"OSs",3,4657,5
+431,"limb exercises",3,4657,7
+431,"nitrosative stress",3,4657,6
+431,"surgical repair",3,4657,6
+431,"flap loss",3,4657,6
+431,"laboratory test",3,4657,6
+431,"C-TraC",3,4657,6
+431,"vaccination rates",3,4657,6
+431,"intervention group-a",3,4657,5
+431,"ProGRP",3,4657,5
+431,"NSE",3,4657,5
+431,"chinese hospitals",3,4657,5
+431,"diaphragm atrophy",3,4657,6
+431,"lesion treatment",3,4657,6
+431,"disease system",3,4657,6
+431,"never-smoker osa",3,4657,4
+431,"insertion site",3,4657,6
+431,"col ii",3,4657,6
+431,"airway pressure",3,4657,7
+432,"anterior shear force",3,2958,4
+432,"medial meniscus injury",3,2958,4
+432,"multivariable regression models",3,2958,4
+432,"single hop distance",3,2958,5
+432,"lateral meniscus lesion",3,2958,3
+432,"femoral component in flexion",3,2958,3
+432,"transcranial magnetic stimulation",3,2958,3
+432,"risk of graft failure",3,2958,4
+432,"FASN",3,2958,4
+432,"tibial bone tunnels",3,2958,4
+432,"BOIp",3,2958,3
+432,"mann-whitney u test",3,2958,3
+432,"CNN",3,2958,4
+432,"one-leg hop test",3,2958,3
+432,"zealand white rabbits",3,2958,4
+432,"spearman 's correlation coefficients",3,2958,4
+432,"dynamic postural stability",3,2958,3
+432,"single-legged hop tests",3,2958,4
+432,"internal tibial rotation",3,2958,3
+432,"peer-reviewed journal for publication",3,2958,3
+432,"post-traumatic knee oa",3,2958,3
+432,"non-traumatic oa group",3,2958,3
+432,"post-traumatic oa group",3,2958,3
+432,"PCA",3,2958,8
+432,"symmetrical muscle function",3,2958,5
+432,"tests of muscle function",3,2958,3
+432,"multivariate logistic analysis",3,2958,4
+432,"articular cartilage thickness",3,2958,4
+432,"lateral femoral epicondyle",3,2958,3
+432,"soft tissue laxity",3,2958,3
+432,"chronic medical conditions",3,2958,4
+432,"total quantity of mechanoreceptors",3,2958,3
+432,"linear regression model",3,2958,4
+432,"functional outcome in patients",3,2958,4
+432,"improvement in functional outcome",3,2958,3
+432,"FJS-12",3,2958,3
+432,"unilateral landing task",3,2958,3
+432,"patellar tendon ratio",3,2958,3
+432,"chronic kidney disease",3,2958,4
+432,"IASI",3,2958,4
+432,"collagen fibril thickness",3,2958,4
+432,"blood vessel density",3,2958,3
+432,"UTC",3,2958,3
+432,"single-legged drop jump",3,2958,4
+432,"primary outcome measure",3,2958,3
+432,"intercondylar notch width",3,2958,4
+432,"peak knee abduction",3,2958,5
+432,"knee proprioception tests",3,2958,4
+432,"DOR",3,2958,5
+432,"PCSA",3,2958,3
+432,"sagittal plane for knee",3,2958,4
+432,"standardized mortality ratio",3,2958,4
+432,"damage of cartilage tissue",3,2958,4
+432,"control treatment group",3,2958,3
+432,"SPS",3,2958,3
+432,"CTD",3,2958,3
+432,"HVC",3,2958,3
+432,"single intra-articular injection",3,2958,4
+432,"coronal knee alignment",3,2958,4
+432,"self-efficacy for pain control",3,2958,3
+432,"aclr limb",3,2958,4
+432,"motivators for floorball participation",3,2958,3
+432,"sports medicine clinics",3,2958,4
+432,"traditional 4-strand graft",3,2958,4
+432,"fabella prevalence rate",3,2958,3
+432,"competitions on artificial turf",3,2958,3
+432,"AMRI",3,2958,4
+432,"medial complex reconstruction",3,2958,4
+432,"cortical fixation techniques",3,2958,3
+432,"meniscal repair failure",3,2958,4
+432,"independent risk factor",3,2958,4
+432,"patients with aps",3,2958,4
+432,"nationwide inpatient sample",3,2958,3
+432,"information on vaccination coverage",3,2958,3
+432,"rotator cuff repair",3,2958,4
+432,"DFR",3,2958,5
+432,"acute cerebral ischemia",3,2958,3
+432,"ventilation hyperinflation index",3,2958,3
+432,"SKG",3,2958,3
+432,"TBI",3,2958,5
+432,"propensity score matching",3,2958,3
+432,"epic reporting workbench",3,2958,4
+432,"patients with government-assisted insurance",3,2958,4
+432,"initial orthopaedic evaluation",3,2958,3
+432,"SBN",3,2958,5
+432,"ACSAs",3,2958,3
+432,"international classification of diseases",3,2958,3
+432,"skeletal muscle dysfunction",3,2958,4
+432,"university research laboratory",3,2958,3
+432,"TRE",3,2958,3
+432,"charlson comorbidity index",3,2958,6
+432,"health plan enrollment",3,2958,4
+432,"CCL",3,2958,4
+432,"VIPAR",3,2958,3
+432,"superior pmf injury",3,2958,3
+432,"ct scans",3,2958,4
+432,"systemic inflammatory markers",3,2958,3
+432,"sgrq cb",3,2958,3
+432,"patellofemoral degenerative progression",3,2958,4
+432,"type ii collagen",3,2958,4
+432,"medial meniscal extrusion",3,2958,3
+432,"pulmonary tuberculosis co-morbidity",3,2958,4
+432,"adverse cardiac events",3,2958,4
+432,"SNPs",3,2958,4
+432,"LCQ",3,2958,3
+432,"logistic regression analyses",3,2958,4
+432,"PEF",3,2958,4
+432,"PLRI",3,2958,4
+432,"RCL",3,2958,3
+432,"alpha-1 anti-trypsin deficiency",3,2958,3
+432,"internal rotation moments",3,2958,4
+432,"MIC",3,2958,4
+432,"physical therapy group",3,2958,4
+432,"BRS",3,2958,3
+432,"cardiopulmonary exercise testing",3,2958,4
+432,"multivariable linear regression",3,2958,4
+432,"lateral q-h coherence",3,2958,4
+432,"peak ankle inversion",3,2958,4
+432,"peak ankle eversion",3,2958,3
+432,"pulmonary vascular remodeling",3,2958,4
+432,"right middle lobe",3,2958,3
+432,"isometric point distance",3,2958,3
+432,"brief icf-opd core",3,2958,4
+432,"chronic disease events",3,2958,3
+432,"AIC",3,2958,3
+432,"patients with cap",3,2958,4
+432,"adolescent aclr males",3,2958,4
+432,"UST",3,2958,4
+432,"complications after lung transplantation",3,2958,4
+432,"effect of preoperative pain",3,2958,4
+432,"CAL",3,2958,4
+432,"LPA",3,2958,3
+432,"invasive pulmonary aspergillosis",3,2958,4
+432,"text message delivery",3,2958,3
+432,"occurrence of heart attack",3,2958,3
+432,"FJS",3,2958,3
+432,"human plasma-derived immunoglobulins",3,2958,4
+432,"cl diagnosis",3,2958,4
+432,"AIS",3,2958,3
+433,"allograft reconstruction",3,2924,6
+433,"patients with values",3,2924,6
+433,"patients with oa",3,2924,6
+433,"joint line",3,2924,6
+433,"osteochondral defects",3,2924,6
+433,"cartilage tissue",3,2924,6
+433,"association with injury",3,2924,6
+433,"rotatory laxity",3,2924,6
+433,"knee cartilage",3,2924,6
+433,"drop landing",3,2924,6
+433,"elderly patients",3,2924,6
+433,"primary diseases",3,2924,6
+433,"pediatric medicine",3,2924,6
+433,"analysis of data",3,2924,6
+433,"ambient pollutants",3,2924,6
+433,"surgical intervention",3,2924,6
+433,"surveillance system",3,2924,6
+433,"koos score",3,2924,6
+434,"contact pressure",3,2347,6
+434,"rabbit anterior",3,2347,6
+434,"diagnostic performance",3,2347,6
+434,"blood loss",3,2347,6
+434,"collagen ii",3,2347,6
+434,"clinical improvement",3,2347,6
+434,"household income",3,2347,6
+434,"cost-utility ratio",3,2347,6
+435,"arabic ikdc",3,2189,4
+435,"successful acl-r",3,2189,3
+435,"arthroscopic acl repair",3,2189,3
+435,"acl reconstruction with lars",3,2189,3
+435,"protective effect on acl",3,2189,3
+435,"hamstrings anterior cruciate ligament reconstruction",3,2189,3
+435,"function after acl reconstruction",3,2189,3
+435,"grading of mcl injury",3,2189,3
+435,"p-acl injury",3,2189,3
+435,"fixation in acl-r",3,2189,3
+435,"ikdc scale",3,2189,3
+435,"oslo sports trauma research centre",3,2189,3
+435,"testing after acl reconstruction",3,2189,3
+435,"cruciate ligament reconstruction graft failure",3,2189,3
+435,"copd medicines",3,2189,3
+435,"arthroscopic primary anterior cruciate ligament",3,2189,3
+435,"copd guidelines",3,2189,3
+435,"moderate-severe copd",3,2189,3
+435,"course of copd",3,2189,3
+435,"patients with npsle",3,2189,3
+435,"controlled group of primary aclr",3,2189,3
+435,"acl non-contact injury",3,2189,3
+435,"pathophysiology of copd",3,2189,3
+435,"advanced nsclc",3,2189,3
+435,"taylor three-dimensional space stent fixation",3,2189,3
+435,"nsclc patients",3,2189,3
+435,"incidence of chronic obstructive pulmonary disease",3,2189,4
+435,"adults with copd",3,2189,3
+435,"never-smoker osa patients",3,2189,3
+436,"angle measurements",3,1192,6
+436,"knee biomechanics",3,1192,6
+436,"tibia plateau",3,1192,7
+436,"bone stress",3,1192,6
+436,"chart reviews",3,1192,7
+436,"neural drive",3,1192,7
+437,"joint score",3,0036,6
+437,"single injection",3,0036,6
+437,"deep vein",3,0036,6
+437,"national register",3,0036,6
+437,"fixation technique",3,0036,6
+437,"arterial blood",3,0036,6
+437,"hypoxic therapy",3,0036,6
+438,"fixation method",2,7726,5
+438,"acl-deficient knees",2,7726,4
+438,"maximum extension",2,7726,5
+438,"patients ' satisfaction outcome questionnaire",2,7726,3
+438,"joint laxity",2,7726,5
+438,"cardiac events",2,7726,5
+438,"hop performance",2,7726,5
+438,"cronbach 's alpha",2,7726,4
+438,"arabic lks",2,7726,4
+438,"orthopaedic surgery",2,7726,5
+438,"preoperative dose of gabapentin",2,7726,5
+438,"complete acl",2,7726,3
+438,"dynamic patch-based sampling algorithm",2,7726,3
+438,"reconstruction methods",2,7726,5
+438,"sta-r evolution",2,7726,4
+438,"single surgeon",2,7726,5
+438,"PrEP",2,7726,5
+438,"hiv diagnosis",2,7726,4
+438,"cost-effectiveness analysis",2,7726,4
+438,"TBH",2,7726,5
+438,"biomechanical tests",2,7726,5
+438,"statistical significance",2,7726,5
+438,"koos knee-related quality of life",2,7726,3
+438,"medial posterior tibial slopes",2,7726,4
+438,"subscale scores",2,7726,5
+438,"2years after surgery",2,7726,4
+438,"ROIs",2,7726,4
+438,"real-time polymerase chain reaction",2,7726,10
+438,"control knees",2,7726,5
+438,"suspensory device",2,7726,5
+438,"isokinetic testing",2,7726,5
+438,"left knee",2,7726,4
+438,"complete acld",2,7726,5
+438,"functional limitation",2,7726,5
+438,"uninvolved knee",2,7726,5
+438,"immature patients",2,7726,4
+438,"healthy adults",2,7726,5
+438,"vastus lateralis",2,7726,5
+438,"knee mechanics",2,7726,5
+438,"characteristic curves",2,7726,5
+438,"movement strategies",2,7726,5
+438,"lack of knowledge",2,7726,4
+438,"acl-injured knees",2,7726,5
+438,"rerupture rates",2,7726,5
+438,"optimal treatment",2,7726,5
+438,"rate of return",2,7726,4
+438,"rts rates",2,7726,5
+438,"meniscal lesions",2,7726,5
+438,"fibular head",2,7726,4
+438,"cadaveric specimens",2,7726,5
+438,"peer-reviewed journal",2,7726,7
+438,"electronic databases",2,7726,5
+438,"functional analysis",2,7726,7
+438,"double-bundle reconstruction",2,7726,5
+438,"groups in terms",2,7726,5
+438,"BKP",2,7726,4
+438,"grid measurements",2,7726,5
+438,"morphological variations",2,7726,5
+438,"quadrant method",2,7726,5
+438,"complications in patients",2,7726,5
+438,"data extraction",2,7726,5
+438,"acl laxity",2,7726,3
+438,"simulated pivot shift",2,7726,6
+438,"acl with age",2,7726,3
+438,"functional status",2,7726,4
+438,"interquartile range",2,7726,5
+438,"chondrocyte viability",2,7726,4
+438,"fatigue effects",2,7726,5
+438,"weight loss",2,7726,5
+438,"final analysis",2,7726,5
+438,"longer-term responders",2,7726,4
+438,"depression score",2,7726,4
+438,"chondrogenic differentiation",2,7726,5
+438,"pathophysiological mechanisms",2,7726,5
+438,"asymmetry of performance",2,7726,5
+438,"healthy participants",2,7726,5
+438,"correlation between mri",2,7726,3
+438,"physeal-sparing anterior cruciate ligament",2,7726,3
+438,"all-epiphyseal group",2,7726,4
+438,"clinical symptoms",2,7726,5
+438,"biologic augmentation",2,7726,4
+438,"physical performance",2,7726,5
+438,"continuous group",2,7726,5
+438,"potential confounders",2,7726,5
+438,"mri examination",2,7726,3
+438,"reference standard",2,7726,5
+438,"operant conditioning",2,7726,5
+438,"training sessions",2,7726,5
+438,"potential mechanism",2,7726,5
+438,"notch volume",2,7726,4
+438,"popliteal groove",2,7726,4
+438,"notch inlet",2,7726,4
+438,"western blot",2,7726,5
+438,"suspensory fixation",2,7726,5
+438,"aperture fixation",2,7726,4
+438,"affected limb",2,7726,4
+438,"treatment initiation",2,7726,5
+438,"degeneration of tissues",2,7726,5
+438,"cartilage degradation",2,7726,5
+438,"autograft patients",2,7726,5
+438,"stg graft",2,7726,5
+438,"osteochondral unit",2,7726,5
+438,"mean values",2,7726,5
+438,"concomitant procedures",2,7726,5
+438,"PQQ",2,7726,6
+438,"koos scale",2,7726,5
+438,"average score",2,7726,5
+438,"prp-gs group",2,7726,4
+438,"magnetic resonance imaging scans",2,7726,3
+438,"pre-pubertal patients",2,7726,4
+438,"primary objective",2,7726,4
+438,"donor sites",2,7726,5
+438,"inter-rater reliability",2,7726,5
+438,"navigation system",2,7726,5
+438,"isokinetic knee",2,7726,5
+438,"pair-wise comparisons",2,7726,4
+438,"peak knee valgus angle",2,7726,3
+438,"exercise programs",2,7726,5
+438,"vertical ground reaction forces",2,7726,3
+438,"distal regions",2,7726,5
+438,"tibial length",2,7726,5
+438,"treatment strategies",2,7726,5
+438,"descriptive epidemiology",2,7726,5
+438,"reoperation rate",2,7726,5
+438,"adolescent patients",2,7726,5
+438,"SANE",2,7726,3
+438,"severity of symptoms",2,7726,5
+438,"experimental group",2,7726,4
+438,"anatomic medial complex reconstruction",2,7726,3
+438,"group f",2,7726,5
+438,"body weight",2,7726,4
+438,"baseline characteristics",2,7726,5
+438,"narrative review",2,7726,4
+438,"sciatic nerve",2,7726,5
+438,"functional task",2,7726,5
+438,"elevated risk",2,7726,5
+438,"respiratory system",2,7726,5
+438,"medical data",2,7726,5
+438,"work rate",2,7726,4
+438,"clinical parameters",2,7726,5
+438,"CXR",2,7726,5
+438,"surgical patients",2,7726,5
+438,"microbe-disease associations",2,7726,6
+438,"disease prognosis",2,7726,5
+438,"lsi differences among different tests",2,7726,3
+438,"lsi values",2,7726,3
+438,"isokinetic dynamometry",2,7726,4
+438,"clinical care",2,7726,5
+438,"epic reporting workbench method",2,7726,3
+438,"cardiovascular conditions",2,7726,4
+438,"SES",2,7726,4
+438,"pediatric patients",2,7726,5
+438,"risk of death",2,7726,4
+438,"markov model",2,7726,4
+438,"health care costs",2,7726,4
+438,"males during single leg landing",2,7726,3
+438,"1-month range",2,7726,5
+438,"fMRI",2,7726,3
+438,"charlson index",2,7726,7
+438,"pro-inflammatory cytokines",2,7726,5
+438,"disease duration",2,7726,5
+438,"medication adherence",2,7726,6
+438,"liver disease",2,7726,5
+438,"pneumococcal vaccines",2,7726,5
+438,"musculoskeletal radiologist",2,7726,5
+438,"isokinetic dynamometer",2,7726,4
+438,"ankle plantar flexion",2,7726,5
+438,"inflammatory factors",2,7726,5
+438,"rheumatoid arthritis",2,7726,5
+438,"breast cancer",2,7726,5
+438,"pediatric research in sports medicine",2,7726,3
+438,"quadriceps recovery",2,7726,5
+438,"landing forces",2,7726,5
+438,"foot orthoses",2,7726,4
+438,"biophen fviii",2,7726,5
+438,"airway inflammation",2,7726,5
+438,"data limitation",2,7726,5
+438,"routine postoperative laboratory tests",2,7726,3
+438,"clinical benefits",2,7726,9
+438,"SOD",2,7726,5
+438,"poisson regression",2,7726,5
+438,"fixation of tibial plateau fractures",2,7726,3
+438,"periprosthetic distal femur fractures",2,7726,3
+438,"care providers",2,7726,5
+438,"serum romo1",2,7726,5
+438,"airway remodeling",2,7726,5
+438,"postoperative outcomes",2,7726,5
+438,"atherogenic indices",2,7726,4
+438,"clinical features",2,7726,5
+438,"pocus performers",2,7726,4
+438,"owt group",2,7726,4
+438,"chronic activation",2,7726,5
+438,"HSAEpiCs",2,7726,3
+438,"cincinnati score",2,7726,5
+438,"ankle sprain",2,7726,5
+438,"adult lung",2,7726,5
+438,"outcome variables",2,7726,5
+438,"placebo among patients",2,7726,5
+438,"patient education",2,7726,5
+438,"participation group",2,7726,5
+438,"mustard lung",2,7726,5
+438,"SM",2,7726,5
+438,"inflammasome pathway",2,7726,4
+438,"premature mortality",2,7726,4
+438,"RESPIRE",2,7726,5
+438,"heart attack",2,7726,6
+438,"tibial nailing",2,7726,5
+438,"asthma-chronic obstructive pulmonary disease",2,7726,3
+438,"follow-up scores",2,7726,5
+438,"benefit for patients",2,7726,5
+438,"differential diagnoses",2,7726,5
+438,"asthmatic patients",2,7726,5
+438,"glucocorticoid receptor",2,7726,5
+438,"sample entropy",2,7726,4
+438,"joint angle",2,7726,5
+438,"toxic stress",2,7726,4
+438,"definition of taco",2,7726,3
+438,"medical center",2,7726,5
+438,"exacerbation severity",2,7726,5
+438,"fracture reduction",2,7726,5
+438,"muscarinic antagonists",2,7726,5
+438,"peak positive hip power",2,7726,3
+438,"therapeutic target",2,7726,5
+438,"PFS",2,7726,4
+438,"control subjects",2,7726,5
+438,"content validity",2,7726,4
+438,"eastern cooperative cancer group",2,7726,3
+438,"isometric strength",2,7726,5
+438,"effective intervention",2,7726,5
+438,"patients with ah",2,7726,4
+438,"improvement of quality",2,7726,5
+438,"course of treatment",2,7726,5
+438,"hamstrings lsi",2,7726,3
+438,"pectoral atrophy",2,7726,5
+438,"adolescent athletes",2,7726,5
+438,"activity modification",2,7726,4
+438,"risk of dementia",2,7726,4
+438,"successful treatment",2,7726,5
+438,"short form",2,7726,5
+438,"risk of hospitalization",2,7726,5
+438,"adjustable loop suspensory device",2,7726,3
+438,"pedi-fab scale",2,7726,4
+438,"greater risk",2,7726,5
+438,"clinical review",2,7726,5
+438,"chinese patients",2,7726,5
+438,"service members with limb loss",2,7726,3
+438,"HBEC",2,7726,3
+438,"asian population",2,7726,4
+438,"host defense",2,7726,5
+438,"wedge hto",2,7726,7
+438,"FPSI",2,7726,3
+438,"MASA",2,7726,3
+439,"dynamic patch-based sampling",2,7465,4
+439,"postoperative knee function",2,7465,4
+439,"soft tissue defect",2,7465,4
+439,"national health insurer",2,7465,4
+439,"coronary artery bypass",2,7465,4
+439,"orthopaedic sports medicine",2,7465,4
+440,"limb joints",2,5415,5
+440,"insurance database",2,5415,5
+440,"lipoprotein cholesterol",2,5415,5
+440,"movement patterns",2,5415,5
+440,"knee radiographs",2,5415,5
+440,"clinical scores",2,5415,5
+440,"coronal alignment",2,5415,5
+440,"reference values",2,5415,5
+440,"breathing exercise",2,5415,5
+440,"functional measures",2,5415,5
+440,"single-legged landing",2,5415,5
+440,"blood values",2,5415,5
+440,"potential approach",2,5415,5
+440,"dner deficient",2,5415,5
+440,"type of disease",2,5415,5
+440,"heart rate",2,5415,5
+440,"healthy knee",2,5415,5
+440,"serum protein",2,5415,5
+441,"oa mice",2,4260,5
+441,"protein c",2,4260,6
+441,"protein s activity",2,4260,6
+441,"meniscal cyst",2,4260,5
+441,"average follow-up",2,4260,5
+441,"healthy group",2,4260,5
+441,"joint capsule",2,4260,5
+441,"sport trauma",2,4260,5
+441,"revision patients",2,4260,6
+441,"penalty status",2,4260,5
+441,"commercial insurance",2,4260,5
+441,"associations between household",2,4260,5
+441,"incidence in patients",2,4260,5
+441,"patellofemoral joint",2,4260,5
+441,"personal anxiety",2,4260,5
+441,"traumatic brain",2,4260,6
+441,"secondary analysis",2,4260,5
+441,"infrapatellar nerve",2,4260,6
+441,"respiratory tract",2,4260,6
+441,"income quartile",2,4260,5
+441,"futsal players",2,4260,6
+442,"clinical systematic reviews",2,1972,3
+442,"competitive alpine skiers",2,1972,3
+442,"maximum knee extension",2,1972,3
+442,"prospective case series",2,1972,3
+442,"arthroscopic knee surgeries",2,1972,3
+442,"healthy knee joint",2,1972,3
+442,"knee joint replacement",2,1972,3
+442,"ligament tissue engineering",2,1972,3
+442,"triple hop distance",2,1972,3
+442,"real-time quantitative pcr",2,1972,3
+442,"subjective knee function",2,1972,4
+442,"control group of patients",2,1972,3
+442,"human cadaveric knees",2,1972,3
+442,"maximum principal strain",2,1972,3
+442,"donor site morbidities",2,1972,3
+442,"tibial plateau width",2,1972,3
+442,"ligament reconstruction model",2,1972,3
+442,"diagnoses of knee oa",2,1972,3
+442,"rotatory knee laxity",2,1972,3
+442,"anterior knee symptoms",2,1972,3
+442,"acute q fever",2,1972,3
+442,"femoral tunnel proximal",2,1972,3
+442,"tibial insertion site",2,1972,3
+442,"straight type knees",2,1972,3
+442,"4-stranded hamstring autograft",2,1972,3
+442,"patellar inhibition test",2,1972,3
+442,"alterations in landing patterns",2,1972,3
+442,"artificial turf systems",2,1972,3
+442,"actual graft size",2,1972,3
+442,"gt sizes",2,1972,3
+442,"american cutaneous leishmaniasis",2,1972,3
+442,"patellar tendon structure",2,1972,3
+442,"cod tests",2,1972,3
+442,"subject-specific knee models",2,1972,3
+442,"cruciate ligament forces",2,1972,3
+442,"patients with knee pain",2,1972,4
+442,"glenoid labral tears",2,1972,3
+442,"cartilage repair procedures",2,1972,3
+442,"lateral meniscus defect",2,1972,3
+442,"centralized lateral meniscus",2,1972,3
+442,"internal rotation torque",2,1972,3
+442,"incident aps",2,1972,3
+442,"koa model",2,1972,3
+442,"circular ilizarov frame",2,1972,3
+442,"femoral tunnel length",2,1972,3
+442,"treatment of cartilage defects",2,1972,3
+442,"lateral contact points",2,1972,3
+442,"dynamic knee robustness",2,1972,3
+442,"FHA",2,1972,4
+442,"patients with knee oa",2,1972,3
+442,"patients with avulsion fracture",2,1972,3
+442,"knee rotational laxity",2,1972,3
+442,"active adolescent females",2,1972,3
+442,"mean follow-up duration",2,1972,3
+442,"patellar bone socket",2,1972,3
+442,"logistic regression analysis",2,1972,3
+442,"risk of adverse events",2,1972,3
+442,"criteria apls",2,1972,3
+442,"rate of adverse events",2,1972,3
+442,"tibial tunnel position",2,1972,4
+442,"lumbosacral plexus injuries",2,1972,4
+442,"psi group",2,1972,3
+442,"influenza vaccination coverage",2,1972,3
+442,"MuRF-1",2,1972,3
+442,"inpatient mortality rate",2,1972,3
+442,"ABG",2,1972,4
+442,"median household income",2,1972,3
+442,"long-term clinical outcomes",2,1972,3
+442,"lung function measurements",2,1972,3
+442,"common respiratory diseases",2,1972,3
+442,"IRT",2,1972,3
+442,"future high-cost patients than patients",2,1972,3
+442,"sagittal plane kinematic",2,1972,3
+442,"knee extension moment",2,1972,3
+442,"hospital admissions in people",2,1972,3
+442,"isotonic knee extension",2,1972,3
+442,"peak sound magnitude",2,1972,3
+442,"isokinetic strength asymmetries",2,1972,3
+442,"aco prevalence",2,1972,4
+442,"members with chronic disease",2,1972,3
+442,"cox regression models",2,1972,3
+442,"qt autografts",2,1972,3
+442,"single-legged drop landings",2,1972,3
+442,"CENP-B",2,1972,3
+442,"suprapatellar plica syndrome",2,1972,3
+442,"anterior knee pain",2,1972,3
+442,"abnormal postoperative laboratory",2,1972,3
+442,"postoperative laboratory values",2,1972,3
+442,"abnormal laboratory values",2,1972,3
+442,"safe lifting techniques",2,1972,3
+442,"postoperative ma",2,1972,3
+442,"sports-specific patient-reported outcomes",2,1972,3
+442,"effects of air pollution",2,1972,3
+442,"ICER",2,1972,3
+442,"squamous cell carcinoma",2,1972,3
+442,"prevalence of influenza vaccination",2,1972,3
+442,"infrapatellar nerve block",2,1972,5
+442,"acos cohort",2,1972,4
+442,"definition of cold spell",2,1972,3
+442,"heart rate recovery",2,1972,3
+442,"dname in blood",2,1972,3
+442,"TDI",2,1972,3
+442,"rl repair",2,1972,3
+442,"free flap surgeries",2,1972,3
+442,"ODI",2,1972,3
+442,"serum vitamin d",2,1972,3
+442,"self-reported chronic diseases",2,1972,3
+442,"risk factor for osteoarthritis",2,1972,3
+442,"ac dislocations",2,1972,3
+442,"knee joint function",2,1972,3
+442,"lars artificial ligament",2,1972,3
+442,"c-arm radiographic machine",2,1972,3
+442,"PNETs",2,1972,3
+442,"patients with btb",2,1972,3
+442,"people with chronic disease",2,1972,5
+442,"health status decline",2,1972,3
+442,"pulmonary paeruginosa colonization",2,1972,3
+442,"risk of aco",2,1972,3
+442,"cardiogenic pulmonary edema",2,1972,3
+442,"BILAT",2,1972,4
+442,"adolescent male football players",2,1972,3
+442,"mental health care",2,1972,3
+442,"health care service",2,1972,3
+442,"receiver operating curve",2,1972,3
+442,"PABAK",2,1972,4
+442,"classification of meniscal tears",2,1972,3
+442,"cox regression analysis",2,1972,3
+442,"average yearly income",2,1972,3
+442,"ICUR",2,1972,3
+442,"koos score values",2,1972,3
+443,"sri lanka",2,0794,4
+443,"improvement in pain",2,0794,4
+443,"graft maturation",2,0794,3
+443,"tibial position",2,0794,5
+443,"nonoperative limbs",2,0794,3
+443,"operative limbs",2,0794,4
+443,"school athletes",2,0794,3
+443,"competitive play",2,0794,4
+443,"primary hypothesis",2,0794,3
+443,"pre-injury sport",2,0794,3
+443,"degrees of flexion",2,0794,3
+443,"clinical evaluation",2,0794,3
+443,"cochrane databases",2,0794,4
+443,"jump height",2,0794,4
+443,"knee extension strength",2,0794,3
+443,"AHR",2,0794,3
+443,"corporate status",2,0794,4
+443,"mouse model",2,0794,4
+443,"expression levels of mir-140-5p",2,0794,3
+443,"pulmonary embolism",2,0794,3
+443,"baseline demographics",2,0794,3
+443,"tegner-lysholm score",2,0794,4
+443,"self-reported pain",2,0794,4
+443,"muscle weakness",2,0794,4
+443,"histone acetylation",2,0794,4
+443,"FAO",2,0794,9
+443,"opioid consumption",2,0794,4
+443,"clinical implications",2,0794,4
+443,"independent test",2,0794,3
+443,"wiley periodicals",2,0794,3
+443,"typical ligament",2,0794,4
+443,"protein s antigen",2,0794,4
+443,"10-month period",2,0794,4
+443,"follow-up interviews",2,0794,3
+443,"trochlear groove",2,0794,3
+443,"ai group",2,0794,3
+443,"hamstring group",2,0794,9
+443,"2-year outcome",2,0794,4
+443,"optimal cutoff",2,0794,3
+443,"patient sex",2,0794,4
+443,"landing mechanics",2,0794,4
+443,"impact forces",2,0794,4
+443,"discriminant validity",2,0794,3
+443,"motion analysis",2,0794,4
+443,"electromyographic measurements",2,0794,3
+443,"kaplan-meier analysis",2,0794,4
+443,"anatomic positioning",2,0794,4
+443,"follow-up rate",2,0794,3
+443,"electron microscopy",2,0794,4
+443,"ANA",2,0794,3
+443,"tcp block",2,0794,3
+443,"bland-altman plots",2,0794,4
+443,"exploratory factor analysis",2,0794,3
+443,"demographic characteristics",2,0794,3
+443,"knee-flexion strength",2,0794,3
+443,"tissue quality",2,0794,5
+443,"suture augmentation",2,0794,4
+443,"technical note",2,0794,3
+443,"symptomatic patients",2,0794,4
+443,"group c",2,0794,3
+443,"100ms after landing",2,0794,3
+443,"non-injured knee",2,0794,4
+443,"acld group",2,0794,4
+443,"rates of knee",2,0794,4
+443,"eligibility criteria",2,0794,4
+443,"free quadriceps",2,0794,3
+443,"kt-1000 measurements",2,0794,4
+443,"sf-36 scores",2,0794,4
+443,"indian population",2,0794,4
+443,"saphenous nerve",2,0794,4
+443,"objective parameter",2,0794,4
+443,"diagnostic potential",2,0794,4
+443,"inflammatory mediators",2,0794,4
+443,"non-ocp group",2,0794,3
+443,"psoas hematoma",2,0794,4
+443,"retrospective analysis",2,0794,4
+443,"anatomic sites",2,0794,4
+443,"outcomes of disease",2,0794,4
+443,"quality care",2,0794,4
+443,"loss of extension",2,0794,3
+443,"registration number crd42015016900",2,0794,3
+443,"systematic search",2,0794,4
+443,"popliteus injury",2,0794,4
+443,"hispanic ethnicity",2,0794,3
+443,"free nerve endings",2,0794,3
+443,"ruffini corpuscles",2,0794,3
+443,"pacinian corpuscles",2,0794,3
+443,"golgitendon bodies",2,0794,3
+443,"lateral displacement",2,0794,4
+443,"median score",2,0794,4
+443,"elderly population",2,0794,3
+443,"predictive validity",2,0794,3
+443,"volatile compounds",2,0794,3
+443,"cluster analysis",2,0794,3
+443,"uninfected mice",2,0794,3
+443,"histologic scores",2,0794,4
+443,"osteoarthritis model",2,0794,4
+443,"quality assessment",2,0794,4
+443,"fibroblast density",2,0794,3
+443,"load parameters",2,0794,3
+443,"performance variables",2,0794,4
+443,"surgical exploration",2,0794,4
+443,"preoperative imaging",2,0794,4
+443,"safe procedure",2,0794,3
+443,"chondral lesions",2,0794,4
+443,"knee development",2,0794,4
+443,"intercondylar eminence",2,0794,3
+443,"reference group",2,0794,3
+443,"ipsilateral knee",2,0794,4
+443,"low-grade synovitis",2,0794,4
+443,"high-grade synovitis",2,0794,4
+443,"ligament forces",2,0794,4
+443,"measurement instrument",2,0794,4
+443,"primary diagnoses",2,0794,3
+443,"time-loss injuries",2,0794,3
+443,"clinical grading",2,0794,4
+443,"torque responses",2,0794,3
+443,"targeted treatment",2,0794,4
+443,"side cut",2,0794,3
+443,"acl-reconstructed knee",2,0794,3
+443,"arthroscopic centralization",2,0794,4
+443,"helical axis",2,0794,5
+443,"shoulder examination",2,0794,4
+443,"knee examination",2,0794,4
+443,"teaching associates",2,0794,3
+443,"clinical manifestations",2,0794,4
+443,"normal group",2,0794,3
+443,"gain in strength",2,0794,4
+443,"players ' performance",2,0794,4
+443,"sail participants",2,0794,3
+443,"exercise interventions",2,0794,4
+443,"affected knee",2,0794,4
+443,"effect on pain",2,0794,5
+443,"cross-sectional survey",2,0794,4
+443,"soft tissue dysfunction",2,0794,3
+443,"treatment approach",2,0794,4
+443,"elective procedures",2,0794,3
+443,"SAD",2,0794,3
+443,"hospital stay",2,0794,10
+443,"position between knees",2,0794,4
+443,"sprague-dawley rats",2,0794,4
+443,"rehabilitation period",2,0794,4
+443,"connective tissue",2,0794,4
+443,"superior outcomes",2,0794,4
+443,"suture device",2,0794,4
+443,"convergent validity",2,0794,3
+443,"standard method",2,0794,4
+443,"dna damage",2,0794,3
+443,"posterior translation",2,0794,4
+443,"CM",2,0794,3
+443,"knee instability",2,0794,4
+443,"long-term follow-up",2,0794,4
+443,"intravenous antibiotics",2,0794,4
+443,"outside-in technique",2,0794,3
+443,"posterior group",2,0794,3
+443,"center group",2,0794,3
+443,"arthroscopic reduction",2,0794,4
+443,"minimum of 18months",2,0794,5
+443,"tunnel widening",2,0794,4
+443,"health problems",2,0794,4
+443,"subchondral bone",2,0794,4
+443,"symptomatic treatment",2,0794,4
+443,"evaluable patients",2,0794,4
+443,"limb reconstruction",2,0794,5
+443,"tendon length",2,0794,4
+443,"plane x-ray",2,0794,3
+443,"re-dislocation rate",2,0794,4
+443,"patient compliance",2,0794,3
+443,"exercise repetitions",2,0794,3
+443,"body areas",2,0794,4
+443,"broad jump",2,0794,3
+443,"preoperative at of quadriceps",2,0794,4
+443,"partial meniscectomy",2,0794,4
+443,"patellar height",2,0794,3
+443,"visual-spatial memory",2,0794,4
+443,"descriptive laboratory",2,0794,3
+443,"heparin-induced thrombocytopenia",2,0794,4
+443,"handball players",2,0794,4
+443,"koos sport",2,0794,4
+443,"bilateral cases",2,0794,4
+443,"football injury",2,0794,4
+443,"revision cohort",2,0794,3
+443,"pain control",2,0794,5
+443,"therapeutic effect",2,0794,4
+443,"landing task",2,0794,5
+443,"convenience sample",2,0794,3
+443,"reach direction",2,0794,4
+443,"reach distances",2,0794,4
+443,"tj task",2,0794,4
+443,"perturbation training",2,0794,4
+443,"closed reduction",2,0794,4
+443,"koos pain",2,0794,4
+443,"eligible patients",2,0794,4
+443,"rate of death",2,0794,3
+443,"fracture healing",2,0794,3
+443,"unaffected leg",2,0794,3
+443,"cortical excitability",2,0794,4
+443,"adverse outcomes",2,0794,4
+443,"soft suture",2,0794,3
+443,"radiographic evaluation",2,0794,3
+443,"oral candidiasis",2,0794,4
+443,"linear trend",2,0794,3
+443,"health deprivation",2,0794,3
+443,"mortality among subjects",2,0794,4
+443,"cause-specific mortality",2,0794,3
+443,"ImaLife",2,0794,3
+443,"disease mechanism",2,0794,4
+443,"organ system",2,0794,3
+443,"emphysema predominant",2,0794,4
+443,"pulmonary emphysema",2,0794,4
+443,"measurements from densitometry",2,0794,4
+443,"rate of readmissions",2,0794,3
+443,"rotator cuff",2,0794,5
+443,"repeatability of measurements",2,0794,3
+443,"colon ischemia",2,0794,3
+443,"homeless participants",2,0794,4
+443,"long-term effects",2,0794,4
+443,"prediction model",2,0794,4
+443,"involved limb",2,0794,4
+443,"leg press",2,0794,4
+443,"sham group",2,0794,4
+443,"synovial membrane",2,0794,4
+443,"patient adherence",2,0794,3
+443,"journal publication",2,0794,5
+443,"telehealth interventions",2,0794,3
+443,"dropout rates",2,0794,3
+443,"hospital anxiety",2,0794,3
+443,"middle-income countries",2,0794,3
+443,"nitrogen dioxide",2,0794,3
+443,"side effects",2,0794,4
+443,"future outcome",2,0794,4
+443,"Mcat",2,0794,5
+443,"intensity interventions",2,0794,3
+443,"partial intervention",2,0794,3
+443,"kinetic data",2,0794,3
+443,"badminton players",2,0794,4
+443,"prevalence of asthma",2,0794,4
+443,"combined assessment",2,0794,3
+443,"weak correlation",2,0794,4
+443,"patient positioning",2,0794,3
+443,"common procedures",2,0794,4
+443,"airway resistance",2,0794,3
+443,"cardiovascular comorbidities",2,0794,4
+443,"death worldwide",2,0794,3
+443,"energy expenditure",2,0794,4
+443,"prediction equation",2,0794,3
+443,"vci program",2,0794,3
+443,"change in pain",2,0794,3
+443,"eccentric torques",2,0794,4
+443,"respiratory morbidity",2,0794,4
+443,"bilateral lung-transplantation",2,0794,4
+443,"effect estimates",2,0794,4
+443,"diagnostic criteria",2,0794,4
+443,"rin group",2,0794,3
+443,"pde4 inhibitor",2,0794,3
+443,"right patient",2,0794,4
+443,"respiratory function",2,0794,4
+443,"statistical performance",2,0794,4
+443,"asthma control",2,0794,7
+443,"clinical management",2,0794,4
+443,"emotional symptoms",2,0794,3
+443,"illness understanding",2,0794,3
+443,"prognostic awareness",2,0794,3
+443,"social isolation",2,0794,3
+443,"disenrollment behavior",2,0794,3
+443,"vas score",2,0794,4
+443,"risks of anxiety",2,0794,3
+443,"anxiety among patients",2,0794,3
+443,"risk of depression",2,0794,3
+443,"effect of exposures",2,0794,4
+443,"clinical phenotype",2,0794,3
+443,"rate of decline",2,0794,4
+443,"postoperative rehabilitation",2,0794,4
+443,"mode of testing",2,0794,3
+443,"selective-bundle tears",2,0794,5
+443,"external focus",2,0794,4
+443,"vivo anterior",2,0794,4
+443,"inversion sprain",2,0794,4
+443,"igm autoantibodies",2,0794,4
+443,"chronic dyspnea",2,0794,4
+443,"prolonged recovery",2,0794,3
+443,"pathological condition",2,0794,4
+443,"TXA",2,0794,3
+443,"placebo-controlled trial",2,0794,4
+443,"hospital care",2,0794,4
+443,"hospital presentation",2,0794,3
+443,"future exacerbations",2,0794,4
+443,"small-scale industries",2,0794,4
+443,"control participants",2,0794,4
+443,"short-term exposure",2,0794,4
+443,"o3 exposure",2,0794,4
+443,"clinical guidelines",2,0794,4
+443,"secondary aim",2,0794,3
+443,"objective stability",2,0794,4
+443,"incidence of complications",2,0794,4
+443,"common symptom",2,0794,4
+443,"jump test",2,0794,5
+443,"lipid profiles",2,0794,3
+443,"tears in patients",2,0794,4
+443,"median follow-up",2,0794,4
+443,"blood serum",2,0794,3
+443,"development of asthma",2,0794,3
+443,"t1-weighted images",2,0794,4
+443,"ill patients",2,0794,3
+443,"population-based cohort",2,0794,4
+443,"effect on mortality",2,0794,4
+443,"bmls in participants",2,0794,3
+443,"health issues",2,0794,4
+443,"inhalation therapy",2,0794,4
+443,"non-pharmacological intervention",2,0794,4
+443,"SDs",2,0794,3
+443,"knee reinjury",2,0794,3
+443,"cardiovascular risk",2,0794,4
+443,"QALYs",2,0794,3
+443,"fat free mass",2,0794,4
+443,"potential predictors",2,0794,4
+443,"protein intake",2,0794,4
+443,"clinical practicum",2,0794,3
+443,"standard group",2,0794,4
+443,"vaccination campaign",2,0794,5
+443,"clinical follow-up",2,0794,4
+443,"quintile group",2,0794,4
+443,"pathological features",2,0794,3
+443,"elliptical trainer",2,0794,4
+443,"musculoskeletal modeling",2,0794,4
+443,"modeling framework",2,0794,4
+443,"cellular proliferation",2,0794,3
+443,"cardiovascular events",2,0794,4
+443,"pneumococcal serotypes",2,0794,3
+443,"environmental exposure",2,0794,4
+443,"mortality worldwide",2,0794,3
+443,"experiences of patients",2,0794,4
+443,"restoration of cartilage",2,0794,4
+443,"pch scaffolds",2,0794,4
+443,"self-management group",2,0794,3
+443,"healthcare professionals",2,0794,4
+443,"strength training",2,0794,4
+443,"military personnel",2,0794,4
+443,"change from baseline",2,0794,4
+443,"chronic stress",2,0794,4
+443,"impact of chronic",2,0794,5
+443,"hemovigilance systems",2,0794,4
+443,"supplemental oxygen",2,0794,4
+443,"invasive hysterectomy",2,0794,4
+443,"endometrial cancer",2,0794,4
+443,"medical co-morbidities",2,0794,4
+443,"pulmonary infection",2,0794,4
+443,"chronic hypercapnia",2,0794,4
+443,"rates of infection",2,0794,4
+443,"oxygen saturation",2,0794,4
+443,"GO",2,0794,3
+443,"physical fatigue",2,0794,3
+443,"pronated feet",2,0794,3
+443,"anti-pronation shoes",2,0794,4
+443,"statistical analyses",2,0794,3
+443,"index score",2,0794,5
+443,"dyspnea of patients",2,0794,4
+443,"endobronchial valve",2,0794,5
+443,"cox analysis",2,0794,4
+443,"axial alignment",2,0794,3
+443,"knee arthrodesis",2,0794,4
+443,"index test",2,0794,4
+443,"respiratory parameters",2,0794,4
+443,"effective strategies",2,0794,4
+443,"patients ' capacity",2,0794,4
+443,"30-day re-exacerbation",2,0794,4
+443,"C-index",2,0794,3
+443,"patients with cap+copd",2,0794,4
+443,"production of aof",2,0794,3
+443,"postoperative values",2,0794,4
+443,"sKT",2,0794,4
+443,"kl score",2,0794,5
+443,"load management",2,0794,3
+443,"intrapleural fibrinolytics",2,0794,4
+443,"chest tubes",2,0794,3
+443,"symptoms of anxiety",2,0794,4
+443,"everyday life",2,0794,5
+443,"moxibustion therapy",2,0794,3
+443,"strain injuries",2,0794,5
+443,"muscle group",2,0794,4
+443,"match-induced fatigue",2,0794,4
+443,"physical fitness",2,0794,3
+443,"tibial width",2,0794,4
+443,"annual rate",2,0794,4
+443,"respiratory diagnosis",2,0794,5
+443,"arthroscopic procedure",2,0794,4
+443,"general self-efficacy",2,0794,4
+443,"treatment with mucolytics",2,0794,3
+443,"conditions of patients",2,0794,4
+443,"graft options",2,0794,4
+443,"articular chondrocytes",2,0794,4
+443,"manual therapy",2,0794,3
+443,"natural turf",2,0794,3
+443,"long-term benzodiazepine",2,0794,4
+443,"h. influenzae",2,0794,4
+443,"dissociation of bcl2",2,0794,3
+443,"meniscus tears",2,0794,4
+443,"data for participants",2,0794,4
+443,"zephyr valves",2,0794,4
+443,"RV",2,0794,3
+443,"weight-loss definition",2,0794,5
+443,"mitochondrial dysfunction",2,0794,4
+443,"acceptance of illness",2,0794,6
+443,"tuberculosis cases",2,0794,4
+444,"treatment for stable copd",1,7918,3
+445,"healthy joint",1,7329,4
+445,"ramp repair",1,7329,4
+445,"tunnel enlargement",1,7329,4
+445,"expressions of collagen",1,7329,4
+445,"ligamentization of allograft",1,7329,4
+445,"reconstruction in athletes",1,7329,4
+445,"post anterior",1,7329,4
+445,"acute rupture",1,7329,4
+445,"cut-off diameter",1,7329,4
+445,"analyses of variance",1,7329,4
+445,"actual size",1,7329,4
+445,"mean duration",1,7329,4
+445,"tendon structure",1,7329,4
+445,"voluntary activation",1,7329,4
+445,"inclination angles",1,7329,4
+445,"graft board",1,7329,4
+445,"performance scores",1,7329,4
+445,"adolescent females",1,7329,4
+445,"blood transfusion",1,7329,4
+445,"dynamic hyperinflation",1,7329,4
+445,"greater peak",1,7329,4
+445,"posterior grf",1,7329,4
+445,"duration of follow-up",1,7329,4
+445,"activities in females",1,7329,4
+445,"disease phenotypes",1,7329,4
+445,"exacerbation admissions",1,7329,4
+445,"biomass smoke",1,7329,4
+445,"poisson model",1,7329,4
+445,"prevalence of injury",1,7329,4
+445,"symmetrical strength",1,7329,4
+445,"safe lifting",1,7329,4
+445,"function in athletes",1,7329,4
+445,"satisfaction questionnaire",1,7329,4
+445,"species of ntm",1,7329,4
+445,"lclc insufficiency",1,7329,4
+445,"prevalence of vaccination",1,7329,4
+445,"cell adhesion",1,7329,4
+445,"calpain activation",1,7329,4
+445,"straight type",1,7329,4
+445,"cancer stage",1,7329,4
+445,"lung biopsies",1,7329,4
+445,"fuel for cooking",1,7329,4
+445,"prevalence of oa",1,7329,4
+446,"clinical outcome of anterior cruciate ligament",1,6094,3
+446,"anatomic single-bundle anterior cruciate ligament",1,6094,4
+446,"performance of 3d mri",1,6094,3
+446,"national health insurance research database",1,6094,3
+446,"nsclc without copd",1,6094,3
+447,"decision-making process",1,3863,3
+447,"northern province",1,3863,3
+447,"deficient knees",1,3863,3
+447,"limb alignment",1,3863,3
+447,"interobserver reliability",1,3863,3
+447,"transtibial technique",1,3863,3
+447,"anteromedial technique",1,3863,3
+447,"functional deficits",1,3863,3
+447,"test sessions",1,3863,3
+447,"manager data",1,3863,3
+447,"mechanical failure",1,3863,3
+447,"validity in cases",1,3863,3
+447,"disabling condition",1,3863,3
+447,"urban mothers",1,3863,3
+447,"morphological characteristics",1,3863,3
+447,"transportal group",1,3863,3
+447,"5-years follow-up",1,3863,3
+447,"pregnancy outcomes",1,3863,3
+447,"risk level between groups",1,3863,3
+447,"risk of shoulder",1,3863,3
+447,"ligamentous structure",1,3863,3
+447,"j orthop res",1,3863,3
+447,"external loads",1,3863,4
+447,"biomechanical function",1,3863,3
+447,"central california",1,3863,3
+447,"suture anchors",1,3863,3
+447,"clinical results with autografts",1,3863,3
+447,"orthopaedic procedures",1,3863,3
+447,"rabbit model",1,3863,3
+447,"histological analysis",1,3863,3
+447,"posteromedial corner",1,3863,3
+447,"concurrent injuries",1,3863,3
+447,"koos symptoms",1,3863,3
+447,"contralateral rupture",1,3863,3
+447,"ipsilateral reconstruction",1,3863,3
+447,"pain subscale",1,3863,3
+447,"disease pathogenesis",1,3863,4
+447,"oa development",1,3863,3
+447,"b-cell subsets",1,3863,3
+447,"kt-1000 arthrometer",1,3863,3
+447,"femoral avulsion",1,3863,3
+447,"anterior surface",1,3863,3
+447,"knee translation",1,3863,3
+447,"uninjured knee",1,3863,3
+447,"extremity muscles",1,3863,3
+447,"predictive values",1,3863,3
+447,"re-injury risk",1,3863,3
+447,"femoral footprint",1,3863,3
+447,"possibility of repair",1,3863,3
+447,"extremity joints",1,3863,3
+447,"risk ratio",1,3863,3
+447,"thigh diameter",1,3863,3
+447,"nonathletic patients",1,3863,3
+447,"saphenous neuralgia",1,3863,3
+447,"deep learning",1,3863,3
+447,"measurement techniques",1,3863,3
+447,"infrapatellar pad",1,3863,9
+447,"adipose tissue",1,3863,3
+447,"alternative option",1,3863,3
+447,"rare complication",1,3863,3
+447,"graft placement",1,3863,3
+447,"treatment outcomes",1,3863,3
+447,"suture repair",1,3863,3
+447,"hormonal contraceptives",1,3863,3
+447,"soccer season",1,3863,3
+447,"native state",1,3863,3
+447,"mixed effects",1,3863,3
+447,"infection risk",1,3863,3
+447,"spring-loaded cane",1,3863,3
+447,"plasma samples",1,3863,3
+447,"vital signs",1,3863,3
+447,"normal limits",1,3863,3
+447,"ce-mr imaging",1,3863,3
+447,"short-term outcome",1,3863,3
+447,"electronic search",1,3863,3
+447,"injury severity",1,3863,3
+447,"group iii",1,3863,3
+447,"tibial stump",1,3863,3
+447,"injury implications",1,3863,3
+447,"running-related injuries",1,3863,3
+447,"biomechanical variables",1,3863,3
+447,"greater asymmetries",1,3863,3
+447,"ferretti grade",1,3863,3
+447,"trunk rotation",1,3863,3
+447,"synovitis score",1,3863,3
+447,"degrees of freedom",1,3863,3
+447,"ethical approval",1,3863,3
+447,"weighted kappa",1,3863,3
+447,"contact mechanism",1,3863,3
+447,"method of treatment",1,3863,3
+447,"femoral anteversion",1,3863,3
+447,"reconstructed participants",1,3863,3
+447,"kinematic data",1,3863,3
+447,"middle segment",1,3863,3
+447,"patellofemoral oa",1,3863,3
+447,"anterior direction",1,3863,3
+447,"caspase-9 expression",1,3863,3
+447,"risk reduction",1,3863,3
+447,"database inception",1,3863,3
+447,"physical scores",1,3863,3
+447,"quadriceps tendinopathy",1,3863,4
+447,"mechanical guides",1,3863,3
+447,"im guide",1,3863,3
+447,"arthroscopic debridement",1,3863,3
+447,"non-osteoarthritic knees",1,3863,3
+447,"descriptive statistics",1,3863,3
+447,"rescue medication",1,3863,3
+447,"global health",1,3863,3
+447,"change in koos",1,3863,3
+447,"ligamentous instability",1,3863,3
+447,"proper function",1,3863,3
+447,"homogeneous tissues",1,3863,3
+447,"primary variable",1,3863,3
+447,"body movement",1,3863,3
+447,"joint osteoarthritis",1,3863,3
+447,"nursing care",1,3863,3
+447,"pain management",1,3863,3
+447,"functional impairment",1,3863,3
+447,"screw fixation",1,3863,3
+447,"valuable insight",1,3863,3
+447,"antibiotic therapy",1,3863,3
+447,"gnrb arthrometer",1,3863,3
+447,"postoperative stability",1,3863,3
+447,"medial compartment",1,3863,3
+447,"bone grafting",1,3863,3
+447,"improvement in symptoms",1,3863,3
+447,"pubertal patients",1,3863,3
+447,"traffic accident",1,3863,3
+447,"characteristic injuries",1,3863,3
+447,"rotation strength",1,3863,3
+447,"nonoperated knees",1,3863,3
+447,"micro test",1,3863,3
+447,"caton-deschamps index",1,3863,3
+447,"cadaver knees",1,3863,3
+447,"graft elongation",1,3863,3
+447,"soccer ball",1,3863,3
+447,"severity score",1,3863,3
+447,"technique under development",1,3863,3
+447,"ultimate force",1,3863,3
+447,"arterial reconstruction",1,3863,3
+447,"obese patients",1,3863,3
+447,"sesamoid bone",1,3863,3
+447,"lateral meniscal",1,3863,3
+447,"follow-up visit",1,3863,3
+447,"osteoarthritis treatment",1,3863,3
+447,"pain intensity",1,3863,3
+447,"elderly people",1,3863,3
+447,"symptom relief",1,3863,3
+447,"diagnosis of osteoarthritis",1,3863,3
+447,"lateral hamstring",1,3863,3
+447,"school sport",1,3863,3
+447,"outcome after surgery",1,3863,3
+447,"age of 40years",1,3863,3
+447,"5-year period",1,3863,3
+447,"chronic oa",1,3863,3
+447,"arterial thrombosis",1,3863,3
+447,"gender differences among patients",1,3863,3
+447,"rts training",1,3863,3
+447,"conventional therapy",1,3863,4
+447,"fracture fragment",1,3863,3
+447,"force control",1,3863,3
+447,"limb differences in quadriceps",1,3863,3
+447,"standardized mean",1,3863,3
+447,"sport type",1,3863,3
+447,"pelvic fracture",1,3863,3
+447,"anatomic locations",1,3863,3
+447,"clinical variables",1,3863,3
+447,"age 579years",1,3863,3
+447,"birth cohort",1,3863,3
+447,"general practitioners",1,3863,3
+447,"factor analysis",1,3863,3
+447,"health impacts",1,3863,3
+447,"matrix metalloproteinase",1,3863,3
+447,"muscle fibers",1,3863,3
+447,"atrophy in quadriceps",1,3863,3
+447,"metabolic processes",1,3863,3
+447,"inter-rater agreement",1,3863,3
+447,"multiplanar images",1,3863,3
+447,"marker in patients",1,3863,3
+447,"varus angulation",1,3863,3
+447,"bankart repair",1,3863,3
+447,"bone loss",1,3863,3
+447,"knee in rat",1,3863,3
+447,"parastomal hernia",1,3863,3
+447,"landing strategy",1,3863,3
+447,"intra-articular dislocation",1,3863,3
+447,"diseases except diabetes",1,3863,3
+447,"nasopharyngeal swab",1,3863,3
+447,"antibiotic course",1,3863,3
+447,"antibiotic treatment",1,3863,3
+447,"airway neutrophilia",1,3863,3
+447,"nonoperative management",1,3863,3
+447,"prediction performance",1,3863,3
+447,"human diseases",1,3863,3
+447,"quadriceps weakness",1,3863,3
+447,"net down-classification",1,3863,4
+447,"bronchial secretions",1,3863,3
+447,"municipal data",1,3863,3
+447,"clinical visits",1,3863,3
+447,"intervention programs",1,3863,3
+447,"aromatic solvents",1,3863,3
+447,"preventive strategies",1,3863,3
+447,"animal production",1,3863,3
+447,"machine-learning methods",1,3863,3
+447,"sociodemographic characteristics",1,3863,3
+447,"lack of awareness",1,3863,3
+447,"neurologic diseases",1,3863,3
+447,"global guidelines",1,3863,3
+447,"critical elements",1,3863,3
+447,"renal disease",1,3863,3
+447,"bronchial asthma",1,3863,4
+447,"injury location",1,3863,3
+447,"cryotherapy application",1,3863,3
+447,"FD",1,3863,3
+447,"single-leg squats",1,3863,3
+447,"strength improvement",1,3863,3
+447,"lp groups",1,3863,3
+447,"imaging methods",1,3863,3
+447,"patient 's phenotype",1,3863,3
+447,"asthma outcomes",1,3863,3
+447,"smoker group",1,3863,3
+447,"outpatient clinics",1,3863,3
+447,"end-stage disease",1,3863,3
+447,"semi-structured interviews",1,3863,3
+447,"themes on early palliative care",1,3863,3
+447,"disease of interest",1,3863,3
+447,"portuguese version",1,3863,3
+447,"etiological agent",1,3863,3
+447,"braziliensis type",1,3863,3
+447,"chronic exposure",1,3863,3
+447,"preventive vaccinations",1,3863,3
+447,"epigenetic alteration",1,3863,3
+447,"autoantibody profile",1,3863,3
+447,"pulmonary pathology",1,3863,3
+447,"therapeutic management",1,3863,3
+447,"aseer region",1,3863,3
+447,"preinjury activity",1,3863,3
+447,"muscle size",1,3863,3
+447,"both-bundle tears",1,3863,4
+447,"rugby athletes",1,3863,3
+447,"functional performance",1,3863,3
+447,"effect of strength",1,3863,3
+447,"secondary prevention",1,3863,3
+447,"anteromedial bundle",1,3863,3
+447,"complex relationship",1,3863,3
+447,"tibiofemoral kinematics",1,3863,3
+447,"placebo effect",1,3863,3
+447,"multivariable analyses",1,3863,3
+447,"pbs-treated supernatant",1,3863,3
+447,"sputum cells",1,3863,3
+447,"pbs supernatant",1,3863,3
+447,"jump performance",1,3863,3
+447,"type of plica",1,3863,3
+447,"complete septum",1,3863,3
+447,"medical treatment",1,3863,3
+447,"course of recovery",1,3863,3
+447,"outcome instruments",1,3863,3
+447,"unilateral total hip arthroplasty",1,3863,3
+447,"independent effect",1,3863,3
+447,"subjective evaluation",1,3863,3
+447,"biomarkers in patients",1,3863,3
+447,"regional technique",1,3863,3
+447,"workers ' exposure",1,3863,3
+447,"trained group",1,3863,3
+447,"spirometric criteria",1,3863,3
+447,"hospitalizations in patients",1,3863,3
+447,"asthma mortality",1,3863,3
+447,"intra-operative complications",1,3863,3
+447,"control outcome",1,3863,3
+447,"maintenance therapy",1,3863,3
+447,"lncrna copda1",1,3863,3
+447,"patient-related factors",1,3863,3
+447,"long-term survival",1,3863,3
+447,"subjective outcomes",1,3863,3
+447,"native knee",1,3863,3
+447,"peak pressure",1,3863,4
+447,"external fixators",1,3863,3
+447,"neuromuscular deficits",1,3863,3
+447,"torque in hip",1,3863,3
+447,"distance of single leg hop",1,3863,4
+447,"understanding of mechanism",1,3863,3
+447,"psychological characteristics",1,3863,3
+447,"cycle ergometer",1,3863,3
+447,"immune cells",1,3863,3
+447,"respiratory disorders",1,3863,3
+447,"spiritual suffering",1,3863,3
+447,"expression of cul4a",1,3863,3
+447,"tiotropium inhaler",1,3863,3
+447,"molecular mechanisms",1,3863,4
+447,"qht autograft",1,3863,3
+447,"basketball injuries",1,3863,3
+447,"strength of association",1,3863,3
+447,"patient 's ability",1,3863,3
+447,"household spillovers",1,3863,3
+447,"respiratory resistance",1,3863,3
+447,"inhaled medication",1,3863,3
+447,"dual reconstruction",1,3863,4
+447,"care management",1,3863,3
+447,"national plans",1,3863,3
+447,"associations between hap",1,3863,3
+447,"ipsilateral hamstrings",1,3863,3
+447,"favorable outcome",1,3863,3
+447,"biomarker of exacerbations",1,3863,3
+447,"strength ratios",1,3863,3
+447,"experimental torque",1,3863,3
+447,"survival rates",1,3863,3
+447,"mean sd",1,3863,3
+447,"patient-reported scores",1,3863,3
+447,"inflammasome activation",1,3863,3
+447,"precision medicine",1,3863,3
+447,"medical disease",1,3863,4
+447,"complete remission",1,3863,3
+447,"case of instability",1,3863,3
+447,"knee ultrasound",1,3863,3
+447,"methods patients",1,3863,3
+447,"hook plate",1,3863,3
+447,"upper limit",1,3863,3
+447,"effective drugs",1,3863,3
+447,"therapeutic strategies",1,3863,3
+447,"baseline status",1,3863,3
+447,"intermuscular coherence",1,3863,3
+447,"knee balance",1,3863,3
+447,"clinical information",1,3863,3
+447,"degenerative knees",1,3863,3
+447,"postoperative follow-ups",1,3863,3
+447,"complex patients",1,3863,3
+447,"serum sp-d",1,3863,3
+447,"emergency admission",1,3863,3
+447,"neuromuscular disorders",1,3863,3
+447,"standard procedures",1,3863,3
+447,"vascular injury",1,3863,3
+447,"interbody fusion",1,3863,7
+447,"spirometric measurements",1,3863,3
+447,"dynamic simulators",1,3863,3
+447,"collateral ventilation",1,3863,3
+447,"national program",1,3863,3
+447,"discordant results between patients",1,3863,3
+447,"active promotion",1,3863,3
+447,"repair group",1,3863,3
+447,"knee varus",1,3863,3
+447,"joint pain",1,3863,3
+447,"experimental model",1,3863,3
+447,"long-term benefits",1,3863,3
+447,"functional assessment",1,3863,3
+447,"muscle architecture",1,3863,3
+447,"model development",1,3863,3
+447,"ischemic attack",1,3863,3
+447,"risk of development",1,3863,3
+447,"vascular wall",1,3863,3
+447,"patient department",1,3863,3
+447,"biomechanical laboratory",1,3863,3
+447,"kt group",1,3863,3
+447,"pectoral thicknesses",1,3863,3
+447,"muscle types",1,3863,3
+447,"preoperative radiographs",1,3863,3
+447,"oa severity",1,3863,3
+447,"sport with athletes",1,3863,3
+447,"cleaner fuels",1,3863,3
+447,"pleural effusion",1,3863,3
+447,"stiff plate",1,3863,4
+447,"workplace flexibility",1,3863,3
+447,"nutritional intake",1,3863,3
+447,"motor system",1,3863,3
+447,"nervous system",1,3863,3
+447,"ntm diseases",1,3863,3
+447,"endothelial dysfunction",1,3863,3
+447,"subjects with exacerbation",1,3863,3
+447,"development of drugs",1,3863,3
+447,"acupuncture group",1,3863,3
+447,"plasma dopamine",1,3863,3
+447,"recurrent exacerbations",1,3863,3
+447,"patients with scap",1,3863,3
+447,"reading rate",1,3863,3
+447,"high-flow nasal cannula therapy",1,3863,3
+447,"quality measures",1,3863,3
+447,"formula granules",1,3863,3
+447,"effectiveness rate",1,3863,3
+447,"thematic analysis",1,3863,3
+447,"chronic smoke",1,3863,3
+447,"30-day readmission",1,3863,3
+447,"knee disorders",1,3863,3
+447,"cigar exposure",1,3863,4
+447,"tobacco smokers",1,3863,3
+447,"medial osteoarthritis",1,3863,3
+447,"rural survivors",1,3863,3
+447,"genetic models",1,3863,3
+447,"autophagy proteins",1,3863,3
+447,"natural compounds",1,3863,3
+447,"consensus definition",1,3863,3
+447,"kaplan-meier survival",1,3863,3
+447,"patients ' income",1,3863,3
+447,"treatment choice",1,3863,3
+447,"economics evaluation",1,3863,3
+447,"tibial osteotomy",1,3863,3
+447,"native tendons",1,3863,3
+447,"chronic nonmalignant pulmonary diseases",1,3863,3
+447,"climatological factors",1,3863,3
+447,"expression profiles",1,3863,3
+448,"bone tunnel enlargement",1,0986,3
+448,"risk of cyst formation",1,0986,3
+448,"stability during gait",1,0986,3
+448,"anterolateral joint capsule",1,0986,3
+448,"low-density lipoprotein cholesterol",1,0986,3
+448,"soft tissue injuries",1,0986,3
+448,"soft tissue in extremities",1,0986,3
+448,"extensor mechanism injuries",1,0986,3
+448,"tibial tunnel locations",1,0986,3
+448,"knee flexion in swing",1,0986,3
+448,"stratified payment method",1,0986,5
+448,"prevalence of posterolateral corner",1,0986,3
+448,"serum crp",1,0986,3
+448,"3-year all-cause mortality",1,0986,3
+448,"inflammatory airway disease",1,0986,3
+448,"reconstruction on clinical outcomes",1,0986,3
+448,"hospital admissions for exacerbation",1,0986,3
+448,"outcomes of medial patellofemoral",1,0986,4
+449,"cap-hybridized tendon",0,6931,3
+449,"ligament reinforcement",0,6931,11
+449,"reinforcement system",0,6931,11
+449,"graft angles",0,6931,3
+449,"quantity of mechanoreceptors",0,6931,4
+449,"revision arthroplasty",0,6931,9
+449,"postoperative infection",0,6931,3
+449,"mean period",0,6931,3
+449,"gait speed",0,6931,10
+449,"width index",0,6931,7
+449,"vivo kinematics",0,6931,3
+449,"elite arf",0,6931,3
+449,"orthopaedic research",0,6931,3
+449,"measures of variance",0,6931,5
+449,"ligament strain",0,6931,3
+449,"perforator flap",0,6931,4
+449,"osteoarthritic change",0,6931,3
+449,"proximal realignment",0,6931,3
+449,"visual memory",0,6931,3
+449,"shoulder injuries",0,6931,3
+449,"anatomical areas",0,6931,4
+449,"knee stiffness",0,6931,4
+449,"femoral epicondyle",0,6931,4
+449,"research laboratory",0,6931,4
+449,"percutaneous biopsies",0,6931,3
+449,"underlying mechanism",0,6931,3
+449,"global satisfaction",0,6931,3
+449,"domiciliary ventilation",0,6931,3
+449,"cross validation",0,6931,3
+449,"expert knowledge",0,6931,3
+449,"overhead stroke",0,6931,4
+449,"alpha-1 antitrypsin",0,6931,4
+449,"self-efficacy questionnaires",0,6931,3
+449,"quadriceps activation",0,6931,3
+449,"movement symmetry",0,6931,3
+449,"light activities",0,6931,4
+449,"extensors muscles",0,6931,3
+449,"acute trauma",0,6931,3
+449,"lateral epicondylitis",0,6931,4
+449,"uninjured group",0,6931,3
+449,"motivation for participation",0,6931,4
+449,"practical method",0,6931,3
+449,"mayo elbow",0,6931,3
+449,"measure of patient",0,6931,5
+449,"primary measures",0,6931,4
+449,"neutral shoes",0,6931,3
+449,"13-point scale",0,6931,3
+449,"deficits in quadriceps",0,6931,3
+449,"septic shock",0,6931,3
+449,"overnight stays",0,6931,3
+449,"text messaging",0,6931,4
+449,"detectable change",0,6931,3
+449,"altered life",0,6931,3
+449,"nuclear receptor",0,6931,6
+449,"levothyroxine treatment",0,6931,3

@@ -1,22 +1,30 @@
 import xml.etree.ElementTree
 import shutil
 import os
+import re
 import random
 import nltk
 from abbreviations import schwartz_hearst
 from nltk.tokenize import sent_tokenize
-from lib.db import create_tables, insert_abstract, insert_acronym, insert_filtered_abstract
+from sklearn.feature_extraction.text import TfidfVectorizer
+from lib.tfpdf import tokenize, cosine_similarity
+from lib.db import create_tables, insert_abstract, insert_acronym, insert_filtered_abstract, insert_found_acronym, \
+    insert_found_full_form, select_similarity_candidates, insert_similarity
 
 
 nltk.download('punkt')
 
 ABSTRACTS_PER_FILE = 1000
-
+CONTEXT_SIZE = 10
 
 db_abstracts = []
 db_acronyms = []
 db_acronym_index = []
 db_filtered_abstracts = []
+db_found_acronyms = []
+db_unique_acronyms = []
+db_found_full_forms = []
+db_similarity = []
 
 
 def parse_files():
@@ -138,6 +146,132 @@ def filter_acronyms():
         create_file(new_sentences, "filtered_text/" + document_id)
 
 
+def strip_acronym(text):
+    text = text.replace("(", "")
+    text = text.replace(")", "")
+    text = text.replace(".", "")
+    text = text.replace("!", "")
+    text = text.replace(",", "")
+    return text.strip()
+
+
+def find_acronyms_in_string(text):
+    result = []
+    pattern = r'(\s\([A-Z]{2,}\)(?:\s|\,|\.|\!|\?))'
+    for match in re.finditer(pattern, text):
+        group = match.group()
+        span = match.span()
+        l_words = text[0:span[0]].strip().split(" ")
+        r_words = text[span[1]:].strip().split(" ")
+        left = " ".join(l_words[-CONTEXT_SIZE:])
+        if left:
+            left = left + " "
+        right = " ".join(r_words[0:CONTEXT_SIZE])
+        if right:
+            right = " " + right
+        context = left + group.strip() + right
+        result.append({'original': group, 'striped': strip_acronym(group), 'span': span, 'context': context})
+    return result
+
+
+def find_acronyms():
+    global db_found_acronyms
+    for abstracts in db_filtered_abstracts:
+        document_id = abstracts['document_id']
+        for abstract in abstracts['sentences']:
+            acronyms = find_acronyms_in_string(abstract)
+            for acronym in acronyms:
+                db_found_acronyms.append({'document_id': document_id, 'acronym': acronym})
+                insert_found_acronym(document_id,
+                                     acronym['original'],
+                                     acronym['striped'],
+                                     ",".join(str(x) for x in acronym['span']),
+                                     acronym['context'])
+
+
+def find_unique_acronyms():
+    global db_unique_acronyms
+    for acronyms in db_found_acronyms:
+        striped_acronym = acronyms['acronym']['striped']
+        if striped_acronym not in db_unique_acronyms:
+            db_unique_acronyms.append(striped_acronym)
+
+
+def find_full_forms_in_string(text, acronym):
+    result = []
+    words = text.split(" ")
+    chars = list(acronym)
+    c = 0
+    for word in words:
+        passed = False
+        d = 0
+        for char in chars:
+            position = c + d
+            if position < len(words):
+                tested_word = words[position]
+                if tested_word and char == tested_word[0]:
+                    if d == len(chars) - 1:
+                        passed = True
+                        break
+                    d = d + 1
+                    continue
+                else:
+                    break
+        if passed:
+            span = [c, c + len(chars)]
+            full_form = " ".join(words[span[0]:span[1]])
+            l_words = words[0:span[0]]
+            r_words = words[span[1]:]
+            left = " ".join(l_words[-CONTEXT_SIZE:])
+            if left:
+                left = left + " "
+            right = " ".join(r_words[0:CONTEXT_SIZE])
+            if right:
+                right = " " + right
+            context = left + full_form + right
+            result.append({'full_form': strip_full_form(full_form), 'span': span, 'context': context})
+        c = c + 1
+    return result
+
+
+def strip_full_form(full_form):
+    if full_form.startswith(".") or full_form.startswith(","):
+        full_form = full_form[1::]
+    if full_form.endswith(",") or full_form.endswith(","):
+        full_form = full_form[:-1]
+    return full_form
+
+
+def find_full_forms():
+    global db_found_full_forms
+    for abstracts in db_filtered_abstracts:
+        document_id = abstracts['document_id']
+        for abstract in abstracts['sentences']:
+            for acronym in db_unique_acronyms:
+                full_forms = find_full_forms_in_string(abstract, acronym)
+                for full_form in full_forms:
+                    db_found_full_forms.append({
+                        'document_id': document_id,
+                        'acronym': acronym,
+                        'full_form': full_form})
+                    insert_found_full_form(document_id,
+                                           acronym,
+                                           strip_full_form(full_form['full_form']),
+                                           ",".join(str(x) for x in full_form['span']),
+                                           full_form['context'])
+
+
+def calculate_similarity():
+    rows = select_similarity_candidates()
+    for row in rows:
+        sklearn_tfidf = TfidfVectorizer(norm='l2', min_df=0, use_idf=True, smooth_idf=False, sublinear_tf=True,
+                                        tokenizer=tokenize)
+        sklearn_representation = sklearn_tfidf.fit_transform([row['acronym_context'], row['full_form_context']]).toarray()
+        cs = cosine_similarity(sklearn_representation[0], sklearn_representation[1])
+        row['cosine_similarity'] = cs
+        insert_similarity(row)
+
+
 def main():
     create_tables()
     parse_files()
@@ -145,8 +279,10 @@ def main():
     run_schwartz_algorithm()
     sort_acronyms()
     filter_acronyms()
-    for x in db_acronyms:
-        print(x)
+    find_acronyms()
+    find_unique_acronyms()
+    find_full_forms()
+    calculate_similarity()
 
 
 if __name__ == "__main__":
