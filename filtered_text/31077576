@@ -1,4 +1,0 @@
-Concentration-QTcF data obtained from two phase I studies in healthy volunteers treated with a novel phosphodiesterase-4 inhibitor currently under development for the treatment of chronic obstructive pulmonary disease were analyzed by means of mixed-effects modeling.
-A simple linear mixed-effects model and a more complex model that included oscillatory functions were employed and compared.
-The slope of the concentration-QTcF relationship was not significantly greater than 0 in both approaches, and the simulations showed that the upper limit of the 90% confidence interval around the mean ΔΔQTcF is not expected to exceed 10 ms within the range of clinically relevant concentrations.
-An additional simulation study confirmed the robustness of the simple linear mixed-effects model for the analysis of concentration-QT data and supported the modeling of data obtained from studies with different designs (parallel and crossover).
