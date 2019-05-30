@@ -5,8 +5,10 @@ import random
 import nltk
 from abbreviations import schwartz_hearst
 from nltk.tokenize import sent_tokenize
+from lib.db import create_tables, insert_abstract, insert_acronym, insert_filtered_abstract
 
-# nltk.download('punkt')
+
+nltk.download('punkt')
 
 ABSTRACTS_PER_FILE = 1000
 
@@ -47,6 +49,7 @@ def parse_file(file):
                 inserted_abstracts = []
                 for a in abstracts:
                     inserted_abstracts.append(a)
+                    insert_abstract(document_id, a)
                     count_abstracts = count_abstracts + 1
                     if count_abstracts == ABSTRACTS_PER_FILE:
                         db_abstracts.append({'document_id': document_id, 'text': inserted_abstracts})
@@ -81,6 +84,7 @@ def run_schwartz_algorithm():
         result = {'document_id': file, 'acronyms': []}
         for key, value in pairs.items():
             result['acronyms'].append({'acronym': key, 'full_form': value})
+            insert_acronym(file, key, value)
         db_acronyms.append(result)
 
 
@@ -129,11 +133,13 @@ def filter_acronyms():
                 elif choice == 0:
                     sentence = sentence.replace(full_form, "")
             new_sentences.append(sentence)
+            insert_filtered_abstract(document_id, sentence)
         db_filtered_abstracts.append({'document_id': document_id, 'sentences': new_sentences})
         create_file(new_sentences, "filtered_text/" + document_id)
 
 
 def main():
+    create_tables()
     parse_files()
     put_abstracts_in_files()
     run_schwartz_algorithm()
@@ -141,7 +147,6 @@ def main():
     filter_acronyms()
     for x in db_acronyms:
         print(x)
-
 
 
 if __name__ == "__main__":
