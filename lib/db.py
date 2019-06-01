@@ -15,7 +15,7 @@ def create_abstracts_table():
             """ + table_name + """(
                 id integer PRIMARY KEY AUTOINCREMENT,
                 document_id text,
-                abstract text
+                document text
             )
             """
     create_table(table_name, sql)
@@ -169,7 +169,7 @@ def insert(table_name, fields):
 
 
 def insert_abstract(document_id, abstract):
-    insert("abstracts", {'document_id': document_id, 'abstract': abstract})
+    insert("abstracts", {'document_id': document_id, 'document': abstract})
 
 
 def insert_acronym(document_id, acronym, full_form):
