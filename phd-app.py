@@ -39,7 +39,10 @@ def parse_abstracts(el, results=None):
     for child in el:
         if child.tag == 'AbstractText':
             if child.text:
-                results.append(child.text)
+                t = child.text
+                for c in child:
+                    t += c.text
+                    results.append(t)
         parse_abstracts(child, results)
     return results
 
@@ -50,19 +53,20 @@ def parse_file(file):
     root = xml.etree.ElementTree.parse(file).getroot()
     for article in root:
         cit = article.find("MedlineCitation")
+        inserted_abstracts = []
         if cit:
             document_id = cit.find("PMID").text
             abstracts = parse_abstracts(article)
             if abstracts:
-                inserted_abstracts = []
                 for a in abstracts:
                     inserted_abstracts.append(a)
-                    insert_abstract(document_id, a)
                     count_abstracts = count_abstracts + 1
                     if count_abstracts == ABSTRACTS_PER_FILE:
-                        db_abstracts.append({'document_id': document_id, 'text': inserted_abstracts})
+                        db_abstracts.append({'document_id': document_id, 'text': [" ".join(inserted_abstracts)]})
+                        insert_abstract(document_id, " ".join(inserted_abstracts))
                         return
-                db_abstracts.append({'document_id': document_id, 'text': inserted_abstracts})
+                db_abstracts.append({'document_id': document_id, 'text': [" ".join(inserted_abstracts)]})
+                insert_abstract(document_id, " ".join(inserted_abstracts))
 
 
 def create_folder(folder):
@@ -140,10 +144,11 @@ def filter_acronyms():
                     sentence = sentence.replace("("+acronym+")", "")
                 elif choice == 0:
                     sentence = sentence.replace(full_form, "")
+                    sentence = sentence.replace("(" + acronym + ")", acronym)
             new_sentences.append(sentence)
-            insert_filtered_abstract(document_id, sentence)
-        db_filtered_abstracts.append({'document_id': document_id, 'sentences': new_sentences})
-        create_file(new_sentences, "filtered_text/" + document_id)
+        insert_filtered_abstract(document_id, " ".join(new_sentences))
+        db_filtered_abstracts.append({'document_id': document_id, 'sentences': [" ".join(new_sentences)]})
+        create_file([" ".join(new_sentences)], "filtered_text/" + document_id)
 
 
 def strip_acronym(text):
@@ -183,7 +188,6 @@ def find_acronyms():
             for acronym in acronyms:
                 db_found_acronyms.append({'document_id': document_id, 'acronym': acronym})
                 insert_found_acronym(document_id,
-                                     acronym['original'],
                                      acronym['striped'],
                                      ",".join(str(x) for x in acronym['span']),
                                      acronym['context'])

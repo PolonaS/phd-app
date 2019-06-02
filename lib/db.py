@@ -58,9 +58,9 @@ def create_found_acronyms_table():
             """ + table_name + """(
                 id integer PRIMARY KEY AUTOINCREMENT,
                 document_id text,
-                acronym_original text,
                 acronym_striped text,
-                acronym_span text,
+                acronym_span_start text,
+                acronym_span_end text,
                 acronym_context text
             )
             """
@@ -77,7 +77,8 @@ def create_found_full_forms_table():
                 document_id text,
                 acronym text,
                 full_form text,
-                full_form_span text,
+                full_form_span_start text,
+                full_form_span_end text,
                 full_form_context text
             )
             """
@@ -180,22 +181,25 @@ def insert_filtered_abstract(document_id, sentence):
     insert("filtered_abstracts", {'document_id': document_id, 'sentence': sentence})
 
 
-def insert_found_acronym(document_id, acronym_original, acronym_striped, acronym_span, acronym_context):
+def insert_found_acronym(document_id, acronym_striped, acronym_span, acronym_context):
+    span = acronym_span.split(",")
     insert("found_acronyms", {
         'document_id': document_id,
-        'acronym_original': acronym_original,
         'acronym_striped': acronym_striped,
-        'acronym_span': acronym_span,
+        'acronym_span_start': span[0],
+        'acronym_span_end': span[1],
         'acronym_context': acronym_context
     })
 
 
 def insert_found_full_form(document_id, acronym, full_form, full_form_span, full_form_context):
+    span = full_form_span.split(",")
     insert("found_full_forms", {
         'document_id': document_id,
         'acronym': acronym,
         'full_form': full_form,
-        'full_form_span': full_form_span,
+        'full_form_span_start': span[0],
+        'full_form_span_end': span[1],
         'full_form_context': full_form_context
     })
 
