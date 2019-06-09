@@ -39,10 +39,7 @@ def parse_abstracts(el, results=None):
     for child in el:
         if child.tag == 'AbstractText':
             if child.text:
-                t = child.text
-                for c in child:
-                    t += c.text
-                    results.append(t)
+                results.append(''.join(child.itertext()))
         parse_abstracts(child, results)
     return results
 
@@ -84,15 +81,15 @@ def create_file(abstracts, file_name):
 
 
 def put_abstracts_in_files():
-    create_folder('text')
+    create_folder('original_text')
     for abstract in db_abstracts:
-        create_file(abstract['text'], "text/" + abstract['document_id'])
+        create_file(abstract['text'], "original_text/" + abstract['document_id'])
 
 
 def run_schwartz_algorithm():
     global db_acronyms
-    for file in os.listdir("./text"):
-        pairs = schwartz_hearst.extract_abbreviation_definition_pairs(file_path="./text/" + file)
+    for file in os.listdir("./original_text"):
+        pairs = schwartz_hearst.extract_abbreviation_definition_pairs(file_path="./original_text/" + file)
         result = {'document_id': file, 'acronyms': []}
         for key, value in pairs.items():
             result['acronyms'].append({'acronym': key, 'full_form': value})
@@ -118,7 +115,7 @@ def sort_acronyms():
 
 def filter_acronyms():
     global db_acronyms, db_filtered_abstracts
-    create_folder('filtered_text')
+    create_folder('text')
     abstracts_index = {}
     for db_abstract in db_abstracts:
         abstracts_index[db_abstract['document_id']] = db_abstract['text']
@@ -148,7 +145,7 @@ def filter_acronyms():
             new_sentences.append(sentence)
         insert_filtered_abstract(document_id, " ".join(new_sentences))
         db_filtered_abstracts.append({'document_id': document_id, 'sentences': [" ".join(new_sentences)]})
-        create_file([" ".join(new_sentences)], "filtered_text/" + document_id)
+        create_file([" ".join(new_sentences)], "text/" + document_id)
 
 
 def strip_acronym(text):

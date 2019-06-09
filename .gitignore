@@ -6,4 +6,7 @@ phd-app.sqlite
 script/flexiterm.sqlite
 acronyms
 filtered_text
+original_text
 text
+flexiterm.sqlite
+compare.sqlite
